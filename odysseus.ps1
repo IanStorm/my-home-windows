@@ -6,7 +6,7 @@ winget install Google.BackupAndSync
 winget install Logitech.LGS
 winget install Microsoft.OneDrive
 winget install Microsoft.Powertoys
-winget install Microsoft.VisualStudioCode
+winget install Microsoft.VisualStudioCode -i
 winget install Microsoft.Whiteboard -s msstore
 winget install Microsoft.WindowsTerminal -s msstore
 winget install Mozilla.Firefox
