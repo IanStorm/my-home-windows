@@ -18,3 +18,4 @@ winget install TeamViewer.TeamViewer
 winget install RARLab.WinRAR
 winget install Valve.Steam
 winget install WiresharkFoundation.Wireshark
+winget install Zoom.Zoom
