@@ -4,6 +4,7 @@ winget install Docker.DockerDesktop
 winget install Dropbox.Dropbox
 winget install Google.BackupAndSync
 winget install Logitech.LGS
+winget install Microsoft.MouseAndKeyboardCenter#FIXME: 404
 winget install Microsoft.OneDrive
 winget install Microsoft.Powertoys
 winget install Microsoft.VisualStudioCode -i
