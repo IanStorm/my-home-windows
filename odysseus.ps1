@@ -1,6 +1,7 @@
 winget install Atlassian.Sourcetree -v 3.3.8
 winget install Discord.Discord
 winget install Docker.DockerDesktop
+winget install GitHub.GitHubDesktop
 winget install Google.BackupAndSync
 winget install Logitech.LGS
 winget install Microsoft.MouseAndKeyboardCenter#FIXME: 404
