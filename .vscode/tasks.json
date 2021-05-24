@@ -10,7 +10,7 @@
 		{
 			"label": "sync",
 			"type": "shell",
-			"command": "docker run -t -v ${PWD}/:/mnt/ ianstorm/dev-settings-sync sync",
+			"command": "docker run --rm -t -v ${PWD}/:/mnt/ ianstorm/dev-settings-sync sync",
 			"problemMatcher": [],
 			"dependsOn": [
 				"Docker pull"
