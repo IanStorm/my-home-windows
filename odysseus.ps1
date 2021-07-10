@@ -13,7 +13,7 @@ winget install Microsoft.WindowsTerminal -s msstore
 winget install Mozilla.Firefox
 winget install NickeManarin.ScreenToGif
 winget install Nvidia.GeForceExperience
-winget install ParsecCloudInc.Parsec
+winget install Parsec.Parsec
 winget install RaspberryPiFoundation.RaspberryPiImager
 winget install TeamViewer.TeamViewer
 winget install RARLab.WinRAR

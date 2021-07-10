@@ -1,2 +1,2 @@
 winget install NexusMods.Vortex
-winget install ParsecCloudInc.Parsec
+winget install Parsec.Parsec
