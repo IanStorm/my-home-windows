@@ -1,7 +1,6 @@
 # Bitwarden -s msstore
 winget install Dropbox.Dropbox
 winget install ElectronicArts.EADesktop
-#TODO: winget install Google.BackupAndSync
 winget install Logitech.SetPoint
 # winget install Microsoft.OneDrive
 winget install Microsoft.VisualStudioCode -i

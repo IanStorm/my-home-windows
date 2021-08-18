@@ -1,7 +1,6 @@
 winget install Discord.Discord
 winget install Docker.DockerDesktop
 winget install GitHub.GitHubDesktop
-winget install Google.BackupAndSync
 winget install Logitech.LGS
 winget install Microsoft.MouseAndKeyboardCenter#FIXME: 404
 winget install Microsoft.OneDrive
