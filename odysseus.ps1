@@ -8,6 +8,7 @@ winget install Microsoft.Powertoys
 winget install Microsoft.VisualStudioCode -i
 winget install Microsoft.Whiteboard -s msstore
 winget install Microsoft.WindowsTerminal -s msstore
+winget install Monitorian -s msstore
 winget install Mozilla.Firefox
 winget install NickeManarin.ScreenToGif
 winget install Nvidia.GeForceExperience
