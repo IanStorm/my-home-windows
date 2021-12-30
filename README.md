@@ -6,7 +6,27 @@ Centralizes and simplifies setup for Windows machines in my home.
 
 ## How to use?
 
-Assuming the respective machine has been freshly set up.
+1. Install any recent Windows on the machine:
+	* Setup separate local accounts for _Administrator_ and _Standard User_.
+	* Run Windows Update
+2. Follow the OS-respective steps below 👇
+2. Go through the respective device list:
+	* _Butterfly_ 🦋
+	* _CDE000931_
+	* _Dreamland_ 🌃
+	* _Gem_ 💎
+	* _Odysseus_ 🌊
+	* [_Phoenix_ 🔥](./phoenix.md)
+	* _Snowflake_ ❄
+	* _Tree_ 🌳
+
+
+### Windows 11: ✔️
+
+The required `winget` tool (including the Microsoft Store support) directly ships with _Windows 11_.
+
+
+### Windows 10: ✋
 
 1. Install `winget` at least _v1.1.12701 (pre-release)_, see [official installation instructions](https://github.com/microsoft/winget-cli#installing-the-client).
 2. Enable the experimental Microsoft Store support; check using `winget features` command.
