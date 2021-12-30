@@ -1,3 +1,4 @@
+winget install Bitwarden.Bitwarden -s winget
 winget install Discord.Discord
 winget install Docker.DockerDesktop
 winget install GitHub.GitHubDesktop
