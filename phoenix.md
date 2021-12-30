@@ -1,4 +1,5 @@
 1. _Parsec_: `winget install Parsec.Parsec`
+2. _Windows Terminal_: `winget install 9N0DX20HK701`
 2. Drivers:
 	* Chipset: Download & install the [chipset driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
 	* GPU: See _Nvidia GeForce Experience_
