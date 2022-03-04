@@ -18,7 +18,7 @@ Centralizes and simplifies setup for Windows machines in my home.
 	* _Odysseus_ 🌊
 	* [_Phoenix_ 🔥](./phoenix.md)
 	* _Snowflake_ ❄
-	* _Tree_ 🌳
+	* [_Tree_ 🌳](./tree.md)
 
 
 ### Windows 11: ✔️
