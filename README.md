@@ -13,6 +13,7 @@ Centralizes and simplifies setup for Windows machines in my home.
 2. Go through the respective device list:
 	* _CDE000931_
 	* _Dreamland_ 🌃
+	* [_FS gaming PC_ 🧔](./fs-gaming-pc.md)
 	* _Gem_ 💎
 	* _Odysseus_ 🌊
 	* [_Phoenix_ 🔥](./phoenix.md)

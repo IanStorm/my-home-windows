@@ -1,3 +1,5 @@
+# Tree 🌳
+
 1. _Parsec_: `winget install Parsec.Parsec`
 2. _Windows Terminal_: `winget install 9N0DX20HK701`
 2. Drivers:
