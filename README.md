@@ -11,7 +11,7 @@ Centralizes and simplifies setup for Windows machines in my home.
 	* Run Windows Update
 2. Follow the OS-respective steps below 👇
 2. Go through the respective device list:
-	* _CDE000931_
+	* [_CDE000931_ 💼](./cde000931.md)
 	* _Dreamland_ 🌃
 	* [_FS gaming PC_ 🧔](./fs-gaming-pc.md)
 	* _Gem_ 💎
