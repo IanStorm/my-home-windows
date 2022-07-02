@@ -5,7 +5,6 @@
 | App name | Instruction | OSS? |
 | -------- | ----------- | ---- |
 | Windows _Terminal_ | Preinstalled | [✔️ GitHub](https://github.com/Microsoft/Terminal) |
-| _Adobe Photoshop Express_ | `winget install 9WZDNCRFJ27N` | ? |
 | _AusweisApp2_ | `winget install Governikus.AusweisApp2` | [✔️ GitHub](https://github.com/Governikus/AusweisApp2) |
 | _Bitwarden_ | `winget install Bitwarden.Bitwarden -s winget` | [✔️ GitHub](https://github.com/bitwarden/clients/tree/master/apps/desktop) |
 | _Boxcryptor_ | `winget install SecombaGmbH.Boxcryptor` | ❌ No |
@@ -15,7 +14,6 @@
 | _Discord_ | `winget install Discord.Discord` | ? |
 | _Docker Desktop_ | `winget install Docker.DockerDesktop` | ? |
 | _Drawboard PDF_ | `winget install 9WZDNCRFHWQT` | ? |
-| _Express Burn_ CD And DVD Burner Free | `winget install 9PFH14RQV52C` | ? |
 | _File Explorer_ | Preinstalled | ? |
 | Mozilla _Firefox_ | `winget install Mozilla.Firefox` | [✔️ Mozilla Central](https://hg.mozilla.org/mozilla-central/) |
 | Texas Instruments SmartRF _Flash Programmer_ | Download & install from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
@@ -35,7 +33,6 @@
 | _Photos_ | Preinstalled | ? |
 | _Power Toys_ | `winget install XP89DCGQ3K6VLD` | [✔️ GitHub](https://github.com/microsoft/PowerToys) |
 | _Raspberry Pi Imager_ | `winget install RaspberryPiFoundation.RaspberryPiImager` | [✔️ GitHub](https://github.com/raspberrypi/rpi-imager) |
-| _ScreenToGif_ | `winget install 9N3SQK8PDS8G` | [✔️ GitHub](https://github.com/NickeManarin/ScreenToGif) |
 | _Smart Home_ | Go to [my-smart-home](http://my-smart-home:1880) and install it as an App | ? |
 | _Snipping Tool_ | Preinstalled | ? |
 | _Spotify_ | `winget install 9NCBCSZSJRSB` | ? |
@@ -51,6 +48,5 @@
 | _Visual Studio Code_ | `winget install Microsoft.VisualStudioCode -i` | [✔️ GitHub]() |
 | _Weather_ | preinstalled | ? |
 | _WhatsApp_ Desktop | `winget install 9NKSQGP7F2NH` | ? |
-| Microsoft _Whiteboard_ | `winget install 9MSPC6MP8FM4` | ? |
 | _WinRAR_ | `winget install RARLab.WinRAR` | ? |
 | _Xbox Game Bar_ | Preinstalled | ? |
