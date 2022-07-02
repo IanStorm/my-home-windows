@@ -16,7 +16,6 @@ Centralizes and simplifies setup for Windows machines in my home.
 	* [_FS gaming PC_ 🧔](./fs-gaming-pc.md)
 	* _Gem_ 💎
 	* [Notebook, C ➡ _Saipat_ 🦆](./notebook-c.md)
-	* _Odysseus_ 🌊
 	* [_Phoenix_ 🔥](./phoenix.md)
 	* _Snowflake_ ❄
 	* [_Tree_ 🌳](./tree.md)
