@@ -11,14 +11,14 @@ Centralizes and simplifies setup for Windows machines in my home.
 	* Run Windows Update
 2. Follow the OS-respective steps below 👇
 2. Go through the respective device list:
-	* [_CDE000931_ 💼](./cde000931.md)
+	* [_CDE000931_ 💼](./work-c.md)
 	* _Dreamland_ 🌃
-	* [_FS gaming PC_ 🧔](./fs-gaming-pc.md)
+	* [_FS gaming PC_ 🧔](./desktop-fs.md)
 	* _Gem_ 💎
-	* [Notebook, C ➡ _Saipat_ 🦆](./notebook-c.md)
-	* [_Phoenix_ 🔥](./phoenix.md)
+	* [_Phoenix_ 🔥](./desktop-c.md)
+	* [_Saipat_ 🦆](./notebook-c.md)
 	* _Snowflake_ ❄
-	* [_Tree_ 🌳](./tree.md)
+	* [_Tree_ 🌳](./desktop-s.md)
 
 
 ### Windows 11: ✔️
