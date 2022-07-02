@@ -17,7 +17,7 @@
 | _Drawboard PDF_ | `winget install 9WZDNCRFHWQT` | ? |
 | _Express Burn_ CD And DVD Burner Free | `winget install 9PFH14RQV52C` | ? |
 | _File Explorer_ | Preinstalled | ? |
-| Mozilla _Firefox_ | `winget install Mozilla.Firefox` | ? |
+| Mozilla _Firefox_ | `winget install Mozilla.Firefox` | [✔️ Mozilla Central](https://hg.mozilla.org/mozilla-central/) |
 | Texas Instruments SmartRF _Flash Programmer_ | Download & install from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
 | _GitHub Desktop_ | 1. `winget install GitHub.GitHubDesktop`<br> 2. Set the `autocrlf` config to `input` | [✔️ GitHub](https://github.com/desktop/desktop) |
 | _Groove Music_ | Preinstalled | ? |
@@ -25,7 +25,7 @@
 | _Logitech Gaming Software_ | `winget install Logitech.LGS` | ? |
 | _Microsoft 365_ f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the instaler | ❌ No |
 | _Microsoft Store_ | Preinstalled | ? |
-| _Monitorian_ | `winget install 9NW33J738BL0` | ? |
+| _Monitorian_ | `winget install 9NW33J738BL0` | [✔️ GitHub](https://github.com/emoacht/Monitorian) |
 | _Mp3tag_ | `winget install 9NN77TCQ1NC8` | ❌ No |
 | Microsoft _Mouse and Keyboard Center_ | `winget install Microsoft.MouseAndKeyboardCenter` | ? |
 | _Netflix_ | `winget install 9WZDNCRFJ3TJ` | ? |
@@ -37,7 +37,7 @@
 | _Raspberry Pi Imager_ | `winget install RaspberryPiFoundation.RaspberryPiImager` | [✔️ GitHub](https://github.com/raspberrypi/rpi-imager) |
 | _ScreenToGif_ | `winget install 9N3SQK8PDS8G` | [✔️ GitHub](https://github.com/NickeManarin/ScreenToGif) |
 | _Smart Home_ | Go to [my-smart-home](http://my-smart-home:1880) and install it as an App | ? |
-| _Snipping Tool_ | preinstalled | ? |
+| _Snipping Tool_ | Preinstalled | ? |
 | _Spotify_ | `winget install 9NCBCSZSJRSB` | ? |
 | _Steam_ | `winget install Valve.Steam` | ? |
 | _Surface_ app | Preinstalled | ? |
