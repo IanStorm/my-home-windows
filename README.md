@@ -21,7 +21,7 @@ Centralizes and simplifies setup for Windows machines in my home.
 	* [_Tree_ 🌳](./desktop-s.md)
 
 
-### Windows 11: ✔️
+### Windows 11: ✅
 
 The required `winget` tool (including the Microsoft Store support) directly ships with _Windows 11_.
 
