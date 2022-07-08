@@ -24,6 +24,7 @@
 | _Logitech Gaming Software_ | `winget install Logitech.LGS` | ? |
 | _Microsoft 365_ f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the instaler | ❌ No |
 | _Microsoft Store_ | Preinstalled | ? |
+| _ModernFlyouts_ | `winget install 9MT60QV066RP` | ? |
 | _Monitorian_ | `winget install 9NW33J738BL0` | [✅ GitHub](https://github.com/emoacht/Monitorian) |
 | _Mp3tag_ | `winget install 9NN77TCQ1NC8` | ❌ No |
 | Microsoft _Mouse and Keyboard Center_ | `winget install Microsoft.MouseAndKeyboardCenter` | ? |
