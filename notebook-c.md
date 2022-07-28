@@ -20,6 +20,7 @@
 | Texas Instruments SmartRF _Flash Programmer_ | Download & install from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
 | _GitHub Desktop_ | 1. `winget install GitHub.GitHubDesktop`<br> 2. Set the `autocrlf` config to `input` | [✅ GitHub](https://github.com/desktop/desktop) |
 | _Groove Music_ | Preinstalled | ? |
+| _Intel Graphics Command Center_ | `winget install 9PLFNLNT3G5G` | ? |
 | _IrfanView_ | `winget install 9PJZ3BTL5PV6` | ? |
 | _Logitech Gaming Software_ | `winget install Logitech.LGS` | ? |
 | _Microsoft 365_ f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the instaler | ❌ No |
@@ -35,6 +36,7 @@
 | _Photos_ | Preinstalled | ? |
 | _Power Toys_ | `winget install XP89DCGQ3K6VLD` | [✅ GitHub](https://github.com/microsoft/PowerToys) |
 | _Raspberry Pi Imager_ | `winget install RaspberryPiFoundation.RaspberryPiImager` | [✅ GitHub](https://github.com/raspberrypi/rpi-imager) |
+| _Shutdown Timer Classic_ | `winget install 9NTDG6C9BTTW` | [✅ GitHub](https://github.com/lukaslangrock/ShutdownTimerClassic) |
 | _Smart Home_ | Go to [my-smart-home](http://my-smart-home:1880) and install it as an App | ? |
 | _Snipping Tool_ | Preinstalled | ? |
 | _Spotify_ | `winget install 9NCBCSZSJRSB` | ? |
