@@ -20,6 +20,7 @@
 | Texas Instruments SmartRF _Flash Programmer_ | Download & install from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
 | _GitHub Desktop_ | 1. `winget install GitHub.GitHubDesktop`<br> 2. Set the `autocrlf` config to `input` | [✅ GitHub](https://github.com/desktop/desktop) |
 | _Groove Music_ | Preinstalled | ? |
+| _Insomnia_ | `winget install Insomnia.Insomnia` | [✅ GitHub](https://github.com/Kong/insomnia) |
 | _Intel Graphics Command Center_ | `winget install 9PLFNLNT3G5G` | ? |
 | _IrfanView_ | `winget install 9PJZ3BTL5PV6` | ? |
 | _Logitech Gaming Software_ | `winget install Logitech.LGS` | ? |
