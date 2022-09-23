@@ -16,18 +16,18 @@
 | _Docker Desktop_ | `winget install Docker.DockerDesktop` | ? |
 | _Drawboard PDF_ | `winget install 9WZDNCRFHWQT` | ? |
 | Microsoft _Edge_ browser | Preinstalled | ? |
+| Microsoft _Family_ | Preinstalled | ❌ No |
 | _File Explorer_ | Preinstalled | ❌ No |
 | Mozilla _Firefox_ | `winget install Mozilla.Firefox` | [✅ Mozilla Central](https://hg.mozilla.org/mozilla-central/) |
 | Texas Instruments SmartRF _Flash Programmer_ | Download & install from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
 | _GitHub Desktop_ | 1. `winget install GitHub.GitHubDesktop`<br> 2. Set the `autocrlf` config to `input` | [✅ GitHub](https://github.com/desktop/desktop) |
-| _Groove Music_ | Preinstalled | ? |
 | _Insomnia_ | `winget install Insomnia.Insomnia` | [✅ GitHub](https://github.com/Kong/insomnia) |
 | _Intel Graphics Command Center_ | `winget install 9PLFNLNT3G5G` | ? |
 | _IrfanView_ | `winget install 9PJZ3BTL5PV6` | ? |
 | _Logitech Gaming Software_ | `winget install Logitech.LGS` | ? |
+| _Media Player_ | Preinstalled | ❌ No |
 | _Microsoft 365_ f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the instaler | ❌ No |
 | _Microsoft Store_ | Preinstalled | ❌ No |
-| _ModernFlyouts_ | `winget install 9MT60QV066RP` | ? |
 | _Monitorian_ | `winget install 9NW33J738BL0` | [✅ GitHub](https://github.com/emoacht/Monitorian) |
 | _Mp3tag_ | `winget install 9NN77TCQ1NC8` | ❌ No |
 | Microsoft _Mouse and Keyboard Center_ | `winget install Microsoft.MouseAndKeyboardCenter` | ? |
