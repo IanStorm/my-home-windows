@@ -18,6 +18,7 @@
 | _ARD_ | Install the `https://www.ardmediathek.de` Progressive Web App (PWA) | N/A |
 | _Camera_ | Preinstalled | ? |
 | _Clock_ | Preinstalled | ? |
+| _Connect_ | Open _Settings_ app ➡️ Select _Apps_ ➡️ _Add an optional feature_ ➡️ _Wireless Display_ | ❌ No |
 | _Controller Companion_ | Install via [Steam](https://store.steampowered.com/app/367670) | ❌ No |
 | _File Explorer_ | Preinstalled | ❌ No |
 | _Logi Options+_ | `winget install Logitech.OptionsPlus` | ❌ No |
