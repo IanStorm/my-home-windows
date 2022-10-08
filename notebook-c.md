@@ -56,4 +56,5 @@
 | _Weather_ | preinstalled | ? |
 | _WhatsApp_ Desktop | `winget install 9NKSQGP7F2NH` | ? |
 | _WinRAR_ | `winget install RARLab.WinRAR` | ? |
+| _Xbox Accessories_ | `winget install 9NBLGGH30XJ3` | ❌ No |
 | _Xbox Game Bar_ | Preinstalled | ❌ No |
