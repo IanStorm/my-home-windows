@@ -33,6 +33,7 @@
 | _Shutdown Timer Classic_ | `winget install 9NTDG6C9BTTW` | [✅ GitHub](https://github.com/lukaslangrock/ShutdownTimerClassic) |
 | _Smart Home_ | Create an _Edge_ shortcut for `http://my-smart-home:1880` | N/A |
 | _Snipping Tool_ | Preinstalled | ? |
+| _Sportschau_ | Create an _Edge_ shortcut for `https://www.sportschau.de` | N/A |
 | _Spotify_ | `winget install 9NCBCSZSJRSB` | ? |
 | _Steam_ | `winget install Valve.Steam` | ❌ No |
 | _Task Manager_ | Preinstalled | ? |
