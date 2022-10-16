@@ -40,6 +40,7 @@
 | _Power Toys_ | `winget install XP89DCGQ3K6VLD` | [✅ GitHub](https://github.com/microsoft/PowerToys) |
 | _Raspberry Pi Imager_ | `winget install RaspberryPiFoundation.RaspberryPiImager` | [✅ GitHub](https://github.com/raspberrypi/rpi-imager) |
 | _Shutdown Timer Classic_ | `winget install 9NTDG6C9BTTW` | [✅ GitHub](https://github.com/lukaslangrock/ShutdownTimerClassic) |
+| _Signal_ Messenger | `winget install OpenWhisperSystems.Signal` | [✅ GitHub](https://github.com/signalapp/Signal-Desktop) |
 | _Smart Home_ | Go to [my-smart-home](http://my-smart-home:1880) and install it as an App | ? |
 | _Snipping Tool_ | Preinstalled | ? |
 | _Spotify_ | `winget install 9NCBCSZSJRSB` | ? |
@@ -52,7 +53,7 @@
 | Microsoft _To Do_ | preinstalled | ? |
 | _TreeSize_ Free | `winget install 9NBLGGH40881` | ? |
 | _Ubuntu_ via WSL2 | 1. `wsl --install`<br> 2. Reboot<br> 3. `winget install 9PDXGNCFSCZV` | ? |
-| _Visual Studio Code_ | `winget install Microsoft.VisualStudioCode -i` | [✅ GitHub]() |
+| _Visual Studio Code_ | `winget install Microsoft.VisualStudioCode -i` | [✅ GitHub](https://github.com/microsoft/vscode) |
 | _Weather_ | preinstalled | ? |
 | _WhatsApp_ Desktop | `winget install 9NKSQGP7F2NH` | ? |
 | _WinRAR_ | `winget install RARLab.WinRAR` | ? |
