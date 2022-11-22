@@ -12,6 +12,7 @@ Centralizes and simplifies setup for Windows machines in my home.
 2. Follow the OS-respective steps below 👇
 2. Go through the respective device list:
 	* [_CDE000931_ 💼](./work-c.md)
+	* [_CDE001149_ 💼](./work-desktop-c.md)
 	* [_FS gaming PC_ 🧔](./desktop-fs.md)
 	* _Gem_ 💎
 	* [_Phoenix_ 🔥](./desktop-c.md)

@@ -13,7 +13,7 @@
 | _Camera_ | Preinstalled | ? |
 | _Clock_ | Preinstalled | ? |
 | _Discord_ | `winget install Discord.Discord` | ? |
-| _Docker Desktop_ | `winget install Docker.DockerDesktop` | ? |
+| _Docker Desktop_ | `winget install Docker.DockerDesktop` | ❌ No |
 | _Drawboard PDF_ | `winget install 9WZDNCRFHWQT` | ? |
 | Microsoft _Edge_ browser | Preinstalled | ? |
 | Microsoft _Family_ | Preinstalled | ❌ No |
