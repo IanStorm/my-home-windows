@@ -51,7 +51,7 @@
 | _Termius_ SSH client | `winget install 9NK1GDVPX09V` | ? |
 | _Threema_ Web | Go to [web.threema.ch](https://web.threema.ch) and install the PWA | [✅ GitHub](https://github.com/threema-ch/threema-web/) |
 | Microsoft _To Do_ | preinstalled | ? |
-| _TreeSize_ Free | `winget install 9NBLGGH40881` | ? |
+| _TreeSize_ Free | `winget install XP9M26RSCLNT88` | ? |
 | _Ubuntu_ via WSL2 | 1. `wsl --install`<br> 2. Reboot<br> 3. `winget install 9PDXGNCFSCZV` | ? |
 | _Visual Studio Code_ | `winget install Microsoft.VisualStudioCode -i` | [✅ GitHub](https://github.com/microsoft/vscode) |
 | _Weather_ | preinstalled | ? |
