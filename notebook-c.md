@@ -8,10 +8,10 @@
 | - | - | - |
 | _AusweisApp2_ | `winget install Governikus.AusweisApp2` | [✅ GitHub](https://github.com/Governikus/AusweisApp2) |
 | _Bitwarden_ | `winget install Bitwarden.Bitwarden -s winget` | [✅ GitHub](https://github.com/bitwarden/clients/tree/master/apps/desktop) |
-| _Boxcryptor_ | `winget install SecombaGmbH.Boxcryptor` | ❌ No |
 | _Calculator_ | Preinstalled | ? |
 | _Camera_ | Preinstalled | ? |
 | _Clock_ | Preinstalled | ? |
+| _Cryptomator_ | `winget install Cryptomator.Cryptomator` | [✅ GitHub](https://github.com/cryptomator/cryptomator) |
 | _Discord_ | `winget install Discord.Discord` | ? |
 | _Docker Desktop_ | `winget install Docker.DockerDesktop` | ❌ No |
 | _Drawboard PDF_ | `winget install 9WZDNCRFHWQT` | ? |
