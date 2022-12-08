@@ -11,3 +11,4 @@
 | _NVM_ | `winget install CoreyButler.NVMforWindows` | [✅ GitHub](https://github.com/coreybutler/nvm-windows) |
 | _Ubuntu_ via WSL2 | 1. `wsl --install`<br> 2. Reboot<br> 3. `winget install 9PDXGNCFSCZV` | ? |
 | _Visual Studio Code_ | `winget install Microsoft.VisualStudioCode -i` | [✅ GitHub](https://github.com/microsoft/vscode) |
+| _Wireshark_ | `winget install WiresharkFoundation.Wireshark` | ? |
