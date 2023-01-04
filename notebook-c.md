@@ -36,7 +36,7 @@
 | _Netflix_ | `winget install 9WZDNCRFJ3TJ` | ❌ No |
 | _Nvidia Control Panel_ | Preinstalled | ? |
 | Microsoft _OneDrive_ | Preinstalled | ❌ No |
-| _Parsec_ | `winget install Parsec.Parsec` | ? |
+| _Parsec_ | `winget install Parsec.Parsec` | ❌ No |
 | _Photos_ | Preinstalled | ❌ No |
 | _Power Toys_ | `winget install XP89DCGQ3K6VLD` | [✅ GitHub](https://github.com/microsoft/PowerToys) |
 | _Raspberry Pi Imager_ | `winget install RaspberryPiFoundation.RaspberryPiImager` | [✅ GitHub](https://github.com/raspberrypi/rpi-imager) |
