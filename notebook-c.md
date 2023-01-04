@@ -6,6 +6,7 @@
 | -------- | ----------- | ---- |
 | Windows _Terminal_ | Preinstalled | [✅ GitHub](https://github.com/Microsoft/Terminal) |
 | - | - | - |
+| _7-Zip_ | `winget install 7zip.7zip` | [✅ SourceForge](https://sourceforge.net/projects/sevenzip/files/) |
 | _AusweisApp2_ | `winget install Governikus.AusweisApp2` | [✅ GitHub](https://github.com/Governikus/AusweisApp2) |
 | _Bitwarden_ | `winget install Bitwarden.Bitwarden -s winget` | [✅ GitHub](https://github.com/bitwarden/clients/tree/master/apps/desktop) |
 | _Calculator_ | Preinstalled | ? |
@@ -56,6 +57,5 @@
 | _Visual Studio Code_ | `winget install Microsoft.VisualStudioCode -i` | [✅ GitHub](https://github.com/microsoft/vscode) |
 | _Weather_ | preinstalled | ? |
 | _WhatsApp_ Desktop | `winget install 9NKSQGP7F2NH` | ? |
-| _WinRAR_ | `winget install RARLab.WinRAR` | ? |
 | _Xbox Accessories_ | `winget install 9NBLGGH30XJ3` | ❌ No |
 | _Xbox Game Bar_ | Preinstalled | ❌ No |

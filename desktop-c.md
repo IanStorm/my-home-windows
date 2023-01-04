@@ -11,6 +11,7 @@
 | Drivers: LAN |  Download & install the [LAN driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download) | ❌ No |
 | Drivers: SSD | See _Samsung Magician_,<br>then download & install the [NVMe driver](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/960evo/) | ❌ No |
 | Drivers: USB | Download & install the [USB driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download) | ❌ No |
+| _7-Zip_ | `winget install 7zip.7zip` | [✅ SourceForge](https://sourceforge.net/projects/sevenzip/files/) |
 | _Blizzard Battle.net_ | Download & install from [Blizzard](https://www.blizzard.com/en-us/apps/battle.net/desktop) | ❌ No |
 | _EA_ app | `winget install ElectronicArts.EADesktop` | ❌ No |
 | _GOG Galaxy_ | `winget install GOG.Galaxy` | ❌ No |
