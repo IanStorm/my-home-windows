@@ -22,6 +22,5 @@
 | _Samsung Magician_ | Download & install from [Samsung](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/) | ❌ No |
 | _Steam_ | `winget install Valve.Steam` | ❌ No |
 | _Ubisoft Connect_ | `winget install Ubisoft.Connect` | ❌ No |
+| _Vortex_ mod manager | `winget install NexusMods.Vortex` | [✅ GitHub](https://github.com/Nexus-Mods/Vortex) |
 | _Xbox_ app | `winget install 9MV0B5HZVK9Z` | ❌ No |
-
-<!-- 2. _Vortex_: `winget install NexusMods.Vortex` -->
