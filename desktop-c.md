@@ -2,25 +2,25 @@
 
 [⬅ Back](./README.md)
 
-| App name | Instruction | OSS? |
-| -------- | ----------- | ---- |
-| _Parsec_ | `winget install Parsec.Parsec` | ❌ No |
-| Windows _Terminal_ | `winget install 9N0DX20HK701` | [✅ GitHub](https://github.com/Microsoft/Terminal) |
-| Drivers: Chipset | Download & install the [chipset driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download) | ❌ No |
-| Drivers: GPU | See _Nvidia GeForce Experience_ | / |
-| Drivers: LAN |  Download & install the [LAN driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download) | ❌ No |
-| Drivers: SSD | See _Samsung Magician_,<br>then download & install the [NVMe driver](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/960evo/) | ❌ No |
-| Drivers: USB | Download & install the [USB driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download) | ❌ No |
-| _7-Zip_ | `winget install 7zip.7zip` | [✅ SourceForge](https://sourceforge.net/projects/sevenzip/files/) |
-| _Blizzard Battle.net_ | Download & install from [Blizzard](https://www.blizzard.com/en-us/apps/battle.net/desktop) | ❌ No |
-| _EA_ app | `winget install ElectronicArts.EADesktop` | ❌ No |
-| _GOG Galaxy_ | `winget install GOG.Galaxy` | ❌ No |
-| _Logitech SetPoint_ | `winget install Logitech.SetPoint` | ❌ No |
-| _Microsoft 365_ f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the instaler,<br>then [disable the Office keybinding](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-starts-office-appoffice-apps-constantly/68cba06f-62b9-47d8-950f-17a90ffc5387?page=2) | ❌ No |
-| _Nvidia Control Panel_ | `winget install 9NF8H0H7WMLT` | ❌ No |
-| _Nvidia GeForce Experience_ | `winget install Nvidia.GeForceExperience` | ❌ No |
-| _Samsung Magician_ | Download & install from [Samsung](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/) | ❌ No |
-| _Steam_ | `winget install Valve.Steam` | ❌ No |
-| _Ubisoft Connect_ | `winget install Ubisoft.Connect` | ❌ No |
-| _Vortex_ mod manager | `winget install NexusMods.Vortex` | [✅ GitHub](https://github.com/Nexus-Mods/Vortex) |
-| _Xbox_ app | `winget install 9MV0B5HZVK9Z` | ❌ No |
+1. [Parsec](./app-list.md#parsec)
+2. [Terminal](./app-list.md#terminal)
+2. Drivers:
+	* Chipset: Download & install the [chipset driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
+	* GPU: See _Nvidia GeForce Experience_
+	* LAN: Download & install the [LAN driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
+	* SSD: See _Samsung Magician_,<br>then download & install the [NVMe driver](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/960evo/)
+	* USB: Download & install the [USB driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
+---
+1. [7-Zip](./app-list.md#7-zip)
+2. [Blizzard Battle.net](./app-list.md#blizzard-battlenet)
+2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
+2. [EA app](./app-list.md#ea-app)
+2. [Logitech SetPoint](./app-list.md#logitech-setpoint)
+2. [Microsoft 365](./app-list.md#microsoft-365)
+2. [Nvidia Control Panel](./app-list.md#nvidia-control-panel)
+2. [Nvidia GeForce Experience](./app-list.md#nvidia-geforce-experience)
+2. [Samsung Magician](./app-list.md#samsung-magician)
+2. [Steam](./app-list.md#steam)
+2. [Ubisoft Connect](./app-list.md#ubisoft-connect)
+2. [Vortex](./app-list.md#vortex)
+2. [Xbox app](./app-list.md#xbox-app)
