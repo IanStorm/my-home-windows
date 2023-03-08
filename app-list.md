@@ -34,10 +34,25 @@
 |:--|:-:|--:|
 | _CrystalDiskMark_ | `winget install CrystalDewWorld.CrystalDiskMark` | [✅ GitHub](https://github.com/hiyohiyo/CrystalDiskMark) |
 
+## Discord
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Discord_ | `winget install Discord.Discord` | ❌ No |
+
 ## EA app
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _EA_ app | `winget install ElectronicArts.EADesktop` | ❌ No |
+
+## GOG Galaxy
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _GOG Galaxy_ | `winget install GOG.Galaxy` | ❌ No |
+
+## Logitech Gaming Software
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Logitech Gaming Software_ | `winget install Logitech.LGS` | ❌ No |
 
 ## Logitech SetPoint
 | <!-- --> | <!-- --> | <!-- --> |
@@ -49,6 +64,11 @@
 |:--|:-:|--:|
 | _Microsoft 365_<br>f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the installer,<br>then [disable the Office keybinding](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-starts-office-appoffice-apps-constantly/68cba06f-62b9-47d8-950f-17a90ffc5387?page=2) | ❌ No |
 
+## Minecraft Launcher
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Minecraft Launcher_ | `winget install Mojang.MinecraftLauncher` | ❌ No |
+
 ## Nvidia Control Panel
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -58,6 +78,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Nvidia GeForce Experience_ | `winget install Nvidia.GeForceExperience` | ❌ No |
+
+## Origin
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| EA _Origin_ | Download & install from [EA](https://www.origin.com) | ❌ No |
 
 ## Parsec
 | <!-- --> | <!-- --> | <!-- --> |
