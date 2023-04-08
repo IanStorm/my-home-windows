@@ -14,7 +14,6 @@ Centralizes and simplifies setup for Windows machines in my home.
 	* [_CDE000931_ 💼](./work-c.md)
 	* [_CDE001149_ 💼](./work-desktop-c.md)
 	* [_FS gaming PC_ 🧔](./desktop-fs.md)
-	* _Gem_ 💎
 	* [_Phoenix_ 🔥](./desktop-c.md)
 	* [_Saipat_ 🦆](./notebook-c.md)
 	* [_Snowflake_ ❄️](./htpc-living-room.md)
