@@ -24,10 +24,36 @@
 |:--|:-:|--:|
 | _7-Zip_ | `winget install 7zip.7zip` | [✅ SourceForge](https://sourceforge.net/projects/sevenzip/files/) |
 
+## AusweisApp2
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _AusweisApp2_ | `winget install Governikus.AusweisApp2` | [✅ GitHub](https://github.com/Governikus/AusweisApp2) |
+
+
+## Bitwarden
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Bitwarden_ | `winget install Bitwarden.Bitwarden -s winget` | [✅ GitHub](https://github.com/bitwarden/clients/tree/master/apps/desktop) |
+
 ## Blizzard Battle.net
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Blizzard Battle.net_ | Download & install from [Blizzard](https://www.blizzard.com/en-us/apps/battle.net/desktop) | ❌ No |
+
+## CDBurnerXP
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _CDBurnerXP_ | `winget install Canneverbe.CDBurnerXP` | ❌ No |
+
+## Cortana
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Cortana_ | `winget install 9NFFX4SZZ23L` | ❌ No |
+
+## Cryptomator
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Cryptomator_ | `winget install Cryptomator.Cryptomator` | [✅ GitHub](https://github.com/cryptomator/cryptomator) |
 
 ## CrystalDiskMark
 | <!-- --> | <!-- --> | <!-- --> |
@@ -37,17 +63,32 @@
 ## Discord
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Discord_ | `winget install Discord.Discord` | ❌ No |
+| _Discord_ | `winget install XPDC2RH70K22MN`<br>or<br>`winget install Discord.Discord` | ❌ No |
 
 ## EA app
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _EA_ app | `winget install ElectronicArts.EADesktop` | ❌ No |
 
+## File Explorer
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _File Explorer_<br>🇩🇪: _Explorer_ | Preinstalled | ❌ No |
+
 ## GOG Galaxy
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _GOG Galaxy_ | `winget install GOG.Galaxy` | ❌ No |
+
+## IanStorm my-smart-home
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Smart Home_ | Go to [my-smart-home](http://my-smart-home:1880/ui) and install it as an App | [✅ GitHub](https://github.com/IanStorm/my-smart-home-node-red) |
+
+## Intel Graphics Command Center
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Intel Graphics Command Center_<br>🇩🇪: _Intel Grafik-Kontrollraum_ | `winget install 9PLFNLNT3G5G` | ❌ No |
 
 ## Logitech Gaming Software
 | <!-- --> | <!-- --> | <!-- --> |
@@ -64,10 +105,65 @@
 |:--|:-:|--:|
 | _Microsoft 365_<br>f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the installer,<br>then [disable the Office keybinding](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-starts-office-appoffice-apps-constantly/68cba06f-62b9-47d8-950f-17a90ffc5387?page=2) | ❌ No |
 
+## Microsoft Defender
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Microsoft Defender_ | `winget install 9P6PMZTM93LR` | ❌ No |
+
+## Microsoft Edge
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Microsoft Edge_ browser | `winget install XPFFTQ037JWMHS`<br>or<br>`winget install Microsoft.Edge` | ❌ No |
+
+## Microsoft Mouse and Keyboard Center
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Microsoft Mouse and Keyboard Center_<br>🇩🇪: _Microsoft-Maus- und Tastatur-Center_ | `winget install Microsoft.MouseAndKeyboardCenter` | ❌ No |
+
+## Microsoft Paint
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Microsoft _Paint_ | `winget install 9PCFS5B6T72H` | ❌ No |
+
+## Microsoft Photos
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Microsoft _Photos_<br>🇩🇪: _Windows-Fotoanzeige_ | `winget install 9WZDNCRFJBH4` | ❌ No |
+
+## Microsoft Sticky Notes
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Microsoft _Sticky Notes_<br>🇩🇪: _Kurznotizen_ | `winget install 9NBLGGH4QGHW` | ❌ No |
+
+## Microsoft Store
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Microsoft Store_ | Preinstalled | ❌ No |
+
+## Microsoft To Do
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Microsoft To Do_ | `winget install 9NBLGGH5R558` | ❌ No |
+
+## Microsoft Whiteboard
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Microsoft Whiteboard_ | `winget install 9MSPC6MP8FM4` | ❌ No |
+
 ## Minecraft Launcher
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Minecraft Launcher_ | `winget install Mojang.MinecraftLauncher` | ❌ No |
+
+## MSN Weather
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| MSN _Weather_<br>🇩🇪: MSN _Wetter_ | `winget install 9WZDNCRFJ3Q2` | ❌ No |
+
+## Netflix
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Netflix_ | `winget install 9WZDNCRFJ3TJ` | ❌ No |
 
 ## Nvidia Control Panel
 | <!-- --> | <!-- --> | <!-- --> |
@@ -79,40 +175,125 @@
 |:--|:-:|--:|
 | _Nvidia GeForce Experience_ | `winget install Nvidia.GeForceExperience` | ❌ No |
 
+## OneDrive
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Microsoft _OneDrive_ | `winget install Microsoft.OneDrive` | ❌ No |
+
 ## Origin
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | EA _Origin_ | Download & install from [EA](https://www.origin.com) | ❌ No |
 
+## Padlet
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Padlet_ | `winget install 9MTWD1KMHB48` | [❌ No](https://github.com/padlet) |
+
 ## Parsec
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Parsec_ | `winget install Parsec.Parsec` | ❌ No |
+| _Parsec_ | `winget install Parsec.Parsec` | [❌ No](https://github.com/parsec-cloud) |
+
+## Phone Link
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Phone Link_<br>🇩🇪: _Smartphone-Link_ | `winget install 9NMPJ99VJBWV` | ❌ No |
 
 ## Samsung Magician
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Samsung Magician_ | Download & install from [Samsung](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/) | ❌ No |
 
+## Snipping Tool
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Snipping Tool_<br>🇩🇪: _Ausschneiden und skizzieren_ | `winget install 9MZ95KL8MR0L` | ❌ No |
+
+## Spotify
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Spotify_ | `winget install 9NCBCSZSJRSB` | ❌ No |
+
 ## Steam
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Steam_ | `winget install Valve.Steam` | ❌ No |
+
+## Surface
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Surface_ app | `winget install 9WZDNCRFJB8P` | ❌ No |
+
+## Surface Diagnostic Toolkit
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Surface Diagnostic Toolkit_ | `winget install 9NF1MR6C60ZF` | ❌ No |
+
+## TeamViewer
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _TeamViewer_ | `winget install XPDM17HK323C4X` | ❌ No |
 
 ## Terminal
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | Windows _Terminal_ | `winget install 9N0DX20HK701` | [✅ GitHub](https://github.com/Microsoft/Terminal) |
 
+## Threema
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Threema Web_ | Go to [web.threema.ch](https://web.threema.ch) and install the PWA | [✅ GitHub](https://github.com/threema-ch/threema-web/) |
+
 ## Ubisoft Connect
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Ubisoft Connect_ | `winget install Ubisoft.Connect` | ❌ No |
 
+## Visual Studio Code
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Visual Studio Code_ | `winget install XP9KHM4BK9FZ7Q`<br>or<br>`winget install Microsoft.VisualStudioCode -i` | [✅ GitHub](https://github.com/microsoft/vscode) |
+
 ## Vortex
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Vortex_ mod manager | `winget install NexusMods.Vortex` | [✅ GitHub](https://github.com/Nexus-Mods/Vortex) |
+
+## WhatsApp
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _WhatsApp_ Desktop | `winget install 9NKSQGP7F2NH` | [❌ No](https://github.com/WhatsApp) |
+
+## Windows Calculator
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Microsoft _Calculator_<br>🇩🇪: Windows-_Rechner_ | `winget install 9WZDNCRFHVN5` | [✅ GitHub](https://github.com/microsoft/calculator) |
+
+## Windows Camera
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Camera_<br>🇩🇪: Windows _Kamera_ | `winget install 9WZDNCRFJBBG` | ❌ No |
+
+## Windows Clock
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Windows _Clock_<br>🇩🇪: Windows Alarm & _Uhr_ | `winget install 9WZDNCRFJ3PR` | ❌ No |
+
+## Windows Media Player
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Windows _Media Player_<br>🇩🇪: Windows _Medienwiedergabe_ | `winget install 9WZDNCRFJ3PT` | ❌ No |
+
+## Windows Notepad
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Editor_ a.k.a. Windows Notepad | `winget install 9MSMLRH6LZF3` | ❌ No |
+
+## WinFsp
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _WinFsp_ (FUSE) | `winget install WinFsp.WinFsp` | [✅ GitHub](https://github.com/winfsp/winfsp) |
 
 ## Xbox app
 | <!-- --> | <!-- --> | <!-- --> |
