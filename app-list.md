@@ -24,6 +24,11 @@
 |:--|:-:|--:|
 | _7-Zip_ | `winget install 7zip.7zip` | [✅ SourceForge](https://sourceforge.net/projects/sevenzip/files/) |
 
+## Audacity
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Audacity_ | `winget install XP8K0J757HHRDW` | [✅ GitHub](https://github.com/audacity/audacity) |
+
 ## AusweisApp2
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
