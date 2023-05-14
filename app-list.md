@@ -75,6 +75,11 @@
 |:--|:-:|--:|
 | _EA_ app | `winget install ElectronicArts.EADesktop` | ❌ No |
 
+## FFmpeg
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _FFmpeg_ | `winget install Gyan.FFmpeg.Shared` | [✅ GitHub](https://github.com/GyanD/codexffmpeg/) |
+
 ## File Explorer
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
