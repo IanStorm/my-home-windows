@@ -2,6 +2,8 @@
 
 [⬅ Back](./README.md)
 
+Entries in **bold** are to be prioritized during installation.
+
 1. [7-Zip](./app-list.md#7-zip)
 2. [AusweisApp2](./app-list.md#ausweisapp2)
 2. **[Bitwarden](./app-list.md#bitwarden)**
