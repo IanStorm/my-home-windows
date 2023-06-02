@@ -15,7 +15,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [easyroam](https://www.hs-bremen.de/studieren/im-studium/zugaenge-und-portale/) ↗
 2. [Editor](./app-list.md#windows-notepad)
 2. Einstellungen, preinstalled
-2. [Explorer](./app-list.md#file-explorer), preinstalled
+2. [Explorer](./app-list.md#windows-file-explorer), preinstalled
 2. [Intel Grafik-Kontrollraum](./app-list.md#intel-graphics-command-center)
 2. [Kamera](./app-list.md#windows-camera), preinstalled
 2. [Kurznotizen](./app-list.md#microsoft-sticky-notes), preinstalled
@@ -37,7 +37,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Rechner](./app-list.md#windows-calculator), preinstalled
 2. [Smart Home](./app-list.md#ianstorm-my-smart-home)
 2. [Smartphone-Link](./app-list.md#phone-link), preinstalled
-2. [Snipping Tool](./app-list.md#snipping-tool)
+2. [Snipping Tool](./app-list.md#windows-snipping-tool)
 2. [Spotify](./app-list.md#spotify)
 2. [Steam](./app-list.md#steam)
 2. [Surface](./app-list.md#surface), preinstalled

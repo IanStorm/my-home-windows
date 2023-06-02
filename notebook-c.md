@@ -1,61 +1,61 @@
-# Notebook, C ➡ _Saipat_ 🦆
+# Notebook, C ➡ _Oree_ 🤖
 
 [⬅ Back](./README.md)
 
-| App name | Instruction | OSS? |
-| -------- | ----------- | ---- |
-| Windows _Terminal_ | Preinstalled | [✅ GitHub](https://github.com/Microsoft/Terminal) |
-| - | - | - |
-| _7-Zip_ | `winget install 7zip.7zip` | [✅ SourceForge](https://sourceforge.net/projects/sevenzip/files/) |
-| _AusweisApp2_ | `winget install Governikus.AusweisApp2` | [✅ GitHub](https://github.com/Governikus/AusweisApp2) |
-| _Bitwarden_ | `winget install Bitwarden.Bitwarden -s winget` | [✅ GitHub](https://github.com/bitwarden/clients/tree/master/apps/desktop) |
-| _Calculator_ | Preinstalled | ? |
-| _Camera_ | Preinstalled | ? |
-| _Clock_ | Preinstalled | ? |
-| _Cryptomator_ | `winget install Cryptomator.Cryptomator` | [✅ GitHub](https://github.com/cryptomator/cryptomator) |
-| _Discord_ | `winget install Discord.Discord` | ? |
-| _Docker Desktop_ | `winget install Docker.DockerDesktop` | ❌ No |
-| _Drawboard PDF_ | `winget install 9WZDNCRFHWQT` | ? |
-| Microsoft _Edge_ browser | Preinstalled | ? |
-| Microsoft _Family_ | Preinstalled | ❌ No |
-| _File Explorer_ | Preinstalled | ❌ No |
-| Mozilla _Firefox_ | `winget install Mozilla.Firefox` | [✅ Mozilla Central](https://hg.mozilla.org/mozilla-central/) |
-| Texas Instruments SmartRF _Flash Programmer_ | Download & install from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
-| _GitHub Desktop_ | 1. `winget install GitHub.GitHubDesktop`<br> 2. Set the `autocrlf` config to `input` | [✅ GitHub](https://github.com/desktop/desktop) |
-| _Insomnia_ | `winget install Insomnia.Insomnia` | [✅ GitHub](https://github.com/Kong/insomnia) |
-| _Intel Graphics Command Center_ | `winget install 9PLFNLNT3G5G` | ? |
-| _IrfanView_ | `winget install 9PJZ3BTL5PV6` | ? |
-| _Logitech Gaming Software_ | `winget install Logitech.LGS` | ? |
-| _Media Player_ | Preinstalled | ❌ No |
-| _Microsoft 365_ f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the instaler | ❌ No |
-| _Microsoft Store_ | Preinstalled | ❌ No |
-| _ModernFlyouts_ | `winget install 9MT60QV066RP` | ? |
-| _Monitorian_ | `winget install 9NW33J738BL0` | [✅ GitHub](https://github.com/emoacht/Monitorian) |
-| _Mp3tag_ | `winget install 9NN77TCQ1NC8` | ❌ No |
-| Microsoft _Mouse and Keyboard Center_ | `winget install Microsoft.MouseAndKeyboardCenter` | ? |
-| _Netflix_ | `winget install 9WZDNCRFJ3TJ` | ❌ No |
-| _Nvidia Control Panel_ | Preinstalled | ? |
-| Microsoft _OneDrive_ | Preinstalled | ❌ No |
-| _Parsec_ | `winget install Parsec.Parsec` | ❌ No |
-| _Photos_ | Preinstalled | ❌ No |
-| _Power Toys_ | `winget install XP89DCGQ3K6VLD` | [✅ GitHub](https://github.com/microsoft/PowerToys) |
-| _Raspberry Pi Imager_ | `winget install RaspberryPiFoundation.RaspberryPiImager` | [✅ GitHub](https://github.com/raspberrypi/rpi-imager) |
-| _Shutdown Timer Classic_ | `winget install 9NTDG6C9BTTW` | [✅ GitHub](https://github.com/lukaslangrock/ShutdownTimerClassic) |
-| _Signal_ Messenger | `winget install OpenWhisperSystems.Signal` | [✅ GitHub](https://github.com/signalapp/Signal-Desktop) |
-| _Smart Home_ | Go to [my-smart-home](http://my-smart-home:1880) and install it as an App | ? |
-| _Snipping Tool_ | Preinstalled | ? |
-| _Spotify_ | `winget install 9NCBCSZSJRSB` | ? |
-| _Steam_ | `winget install Valve.Steam` | ❌ No |
-| _Surface_ app | Preinstalled | ? |
-| _Task Manager_ | preinstalled | ? |
-| _TeamViewer_ | `winget install XPDM17HK323C4X` | ? |
-| _Termius_ SSH client | `winget install 9NK1GDVPX09V` | ? |
-| _Threema_ Web | Go to [web.threema.ch](https://web.threema.ch) and install the PWA | [✅ GitHub](https://github.com/threema-ch/threema-web/) |
-| Microsoft _To Do_ | preinstalled | ? |
-| _TreeSize_ Free | `winget install XP9M26RSCLNT88` | ? |
-| _Ubuntu_ via WSL2 | 1. `wsl --install`<br> 2. Reboot<br> 3. `winget install 9PDXGNCFSCZV` | ? |
-| _Visual Studio Code_ | `winget install Microsoft.VisualStudioCode -i` | [✅ GitHub](https://github.com/microsoft/vscode) |
-| _Weather_ | preinstalled | ? |
-| _WhatsApp_ Desktop | `winget install 9NKSQGP7F2NH` | ? |
-| _Xbox Accessories_ | `winget install 9NBLGGH30XJ3` | ❌ No |
-| _Xbox Game Bar_ | Preinstalled | ❌ No |
+Entries in **bold** are to be prioritized during installation.
+
+1. [7-Zip](./app-list.md#7-zip)
+2. [Audacity](./app-list.md#audacity) with [FFmpeg](./app-list.md#ffmpeg)
+2. [AusweisApp2](./app-list.md#ausweisapp2)
+2. **[Bitwarden](./app-list.md#bitwarden)**
+2. [Calculator](./app-list.md#windows-calculator), preinstalled
+2. [Camera](./app-list.md#windows-camera), preinstalled
+2. [Clock](./app-list.md#windows-clock), preinstalled
+2. **[Cryptomator](./app-list.md#cryptomator) with [WinFSP](./app-list.md#winfsp)**
+2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
+2. [Discord](./app-list.md#discord)
+2. [Docker Desktop](./app-list.md#docker-desktop)
+2. **[Drivers ↗](https://knowledgebase.frame.work/en_us/framework-laptop-bios-and-driver-releases-13th-gen-intel-core-BkQBvKWr3)** - v2023-03-28
+2. Microsoft [Family](./app-list.md#microsoft-family), preinstalled
+2. Mozilla [Firefox](./app-list.md#mozilla-firefox)
+2. [File Explorer](./app-list.md#windows-file-explorer), preinstalled
+2. Texas Instruments [Flash Programmer](./app-list.md#ti-flash-programmer)
+2. [GitHub Desktop](./app-list.md#github-desktop)
+2. [Insomnia](./app-list.md#insomnia)
+2. [Intel Graphics Command Center](./app-list.md#intel-graphics-command-center), preinstalled
+2. [IrfanView](./app-list.md#irfanview)
+2. [Logitech Gaming Software](./app-list.md#logitech-gaming-software)
+2. [Media Player](./app-list.md#windows-media-player), preinstalled
+2. [Microsoft 365](./app-list.md#microsoft-365)
+2. [Microsoft Defender](./app-list.md#microsoft-defender)
+2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
+2. [Microsoft Mouse and Keyboard Center](./app-list.md#microsoft-mouse-and-keyboard-center)
+2. [Microsoft Store](./app-list.md#microsoft-store), preinstalled
+2. [Microsoft To Do](./app-list.md#microsoft-to-do), preinstalled
+2. [Monitorian](./app-list.md#monitorian)
+2. [Mp3tag](./app-list.md#mp3tag)
+2. [Netflix](./app-list.md#netflix)
+2. [Notepad](./app-list#windows-notepad)
+2. **[OneDrive](./app-list.md#onedrive), preinstalled**
+2. [Paint](./app-list.md#microsoft-paint), preinstalled
+2. [Parsec](./app-list.md#parsec)
+2. [Phone Link](./app-list.md#phone-link), preinstalled
+2. [Photos](./app-list.md#microsoft-photos), preinstalled
+2. [Raspberry Pi Imager](./app-list.md#raspberry-pi-imager)
+2. [Shutdown Timer Classic](./app-list.md#shutdown-timer-classic)
+2. [Signal](./app-list.md#signal)
+2. [Smart Home](./app-list.md#ianstorm-my-smart-home)
+2. [Snipping Tool](./app-list.md#windows-snipping-tool)
+2. [Spotify](./app-list.md#spotify)
+2. [Steam](./app-list.md#steam)
+2. [Surface](./app-list.md#surface)
+2. [Task Manager](./app-list.md#windows-task-manager), preinstalled
+2. [TeamViewer](./app-list.md#teamviewer)
+2. **[Terminal](./app-list.md#terminal), preinstalled**
+2. [Threema Web](./app-list.md#threema)
+2. [TreeSize](./app-list.md#treesize)
+2. [Ubuntu](./app-list.md#ubuntu)
+2. [Visual Studio Code](./app-list.md#visual-studio-code)
+2. [Weather](./app-list.md#msn-weather), preinstalled
+2. [WhatsApp](./app-list.md#whatsapp)
+2. [Xbox Game Bar](./app-list.md#xbox-game-bar)

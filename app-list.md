@@ -70,6 +70,16 @@
 |:--|:-:|--:|
 | _Discord_ | `winget install XPDC2RH70K22MN`<br>or<br>`winget install Discord.Discord` | ❌ No |
 
+## Docker Desktop
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Docker Desktop_ | `winget install Docker.DockerDesktop` | ❌ No |
+
+## Drawboard PDF
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Drawboard PDF_ | `winget install 9WZDNCRFHWQT` | ❌ No |
+
 ## EA app
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -80,10 +90,10 @@
 |:--|:-:|--:|
 | _FFmpeg_ | `winget install Gyan.FFmpeg.Shared` | [✅ GitHub](https://github.com/GyanD/codexffmpeg/) |
 
-## File Explorer
+## GitHub Desktop
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _File Explorer_<br>🇩🇪: _Explorer_ | Preinstalled | ❌ No |
+| _GitHub Desktop_ | 1. `winget install GitHub.GitHubDesktop`<br> 2. Set the `autocrlf` config to `input` | [✅ GitHub](https://github.com/desktop/desktop) |
 
 ## GOG Galaxy
 | <!-- --> | <!-- --> | <!-- --> |
@@ -95,10 +105,20 @@
 |:--|:-:|--:|
 | _Smart Home_ | Go to [my-smart-home](http://my-smart-home:1880/ui) and install it as an App | [✅ GitHub](https://github.com/IanStorm/my-smart-home-node-red) |
 
+## Insomnia
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Insomnia_ | `winget install Insomnia.Insomnia` | [✅ GitHub](https://github.com/Kong/insomnia) |
+
 ## Intel Graphics Command Center
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Intel Graphics Command Center_<br>🇩🇪: _Intel Grafik-Kontrollraum_ | `winget install 9PLFNLNT3G5G` | ❌ No |
+
+## IrfanView
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _IrfanView_ | `winget install 9PJZ3BTL5PV6` | ❌ No |
 
 ## Logitech Gaming Software
 | <!-- --> | <!-- --> | <!-- --> |
@@ -113,7 +133,7 @@
 ## Microsoft 365
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Microsoft 365_<br>f.k.a. Office 365 | Go to [office.com](https://www.office.com) and download the installer,<br>then [disable the Office keybinding](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-starts-office-appoffice-apps-constantly/68cba06f-62b9-47d8-950f-17a90ffc5387?page=2) | ❌ No |
+| _Microsoft 365_<br>f.k.a. Office 365 | 1. Go to [office.com](https://www.office.com) and download the installer<br>2. [Disable the Office keybinding ↗](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-starts-office-appoffice-apps-constantly/68cba06f-62b9-47d8-950f-17a90ffc5387?page=2)<br>3. [Activate link handling ↗](https://support.microsoft.com/en-us/office/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773) | ❌ No |
 
 ## Microsoft Defender
 | <!-- --> | <!-- --> | <!-- --> |
@@ -124,6 +144,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Microsoft Edge_ browser | `winget install XPFFTQ037JWMHS`<br>or<br>`winget install Microsoft.Edge` | ❌ No |
+
+## Microsoft Family
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Microsoft _Family_ | `winget install 9PDJDJS743XF` | ❌ No |
 
 ## Microsoft Mouse and Keyboard Center
 | <!-- --> | <!-- --> | <!-- --> |
@@ -139,6 +164,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | Microsoft _Photos_<br>🇩🇪: _Windows-Fotoanzeige_ | `winget install 9WZDNCRFJBH4` | ❌ No |
+
+## Microsoft PowerToys
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Microsoft _Power Toys_ | `winget install XP89DCGQ3K6VLD` | [✅ GitHub](https://github.com/microsoft/PowerToys) |
 
 ## Microsoft Sticky Notes
 | <!-- --> | <!-- --> | <!-- --> |
@@ -164,6 +194,26 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Minecraft Launcher_ | `winget install Mojang.MinecraftLauncher` | ❌ No |
+
+## ModernFlyouts
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _ModernFlyouts_ | `winget install 9MT60QV066RP` | ? |
+
+## Monitorian
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Monitorian_ | `winget install 9NW33J738BL0` | [✅ GitHub](https://github.com/emoacht/Monitorian) |
+
+## Mp3tag
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Mp3tag_ | `winget install 9NN77TCQ1NC8` | ❌ No |
+
+## Mozilla Firefox
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Mozilla _Firefox_ | `winget install 9NZVDKPMR9RD` | [✅ Mozilla Central](https://hg.mozilla.org/mozilla-central/) |
 
 ## MSN Weather
 | <!-- --> | <!-- --> | <!-- --> |
@@ -210,15 +260,25 @@
 |:--|:-:|--:|
 | _Phone Link_<br>🇩🇪: _Smartphone-Link_ | `winget install 9NMPJ99VJBWV` | ❌ No |
 
+## Raspberry Pi Imager
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Raspberry Pi Imager_ | `winget install RaspberryPiFoundation.RaspberryPiImager` | [✅ GitHub](https://github.com/raspberrypi/rpi-imager) |
+
 ## Samsung Magician
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Samsung Magician_ | Download & install from [Samsung](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/) | ❌ No |
 
-## Snipping Tool
+## Shutdown Timer Classic
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Snipping Tool_<br>🇩🇪: _Ausschneiden und skizzieren_ | `winget install 9MZ95KL8MR0L` | ❌ No |
+| _Shutdown Timer Classic_ | `winget install 9NTDG6C9BTTW` | [✅ GitHub](https://github.com/lukaslangrock/ShutdownTimerClassic) |
+
+## Signal
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Signal_ Messenger | `winget install OpenWhisperSystems.Signal` | [✅ GitHub](https://github.com/signalapp/Signal-Desktop) |
 
 ## Spotify
 | <!-- --> | <!-- --> | <!-- --> |
@@ -250,15 +310,35 @@
 |:--|:-:|--:|
 | Windows _Terminal_ | `winget install 9N0DX20HK701` | [✅ GitHub](https://github.com/Microsoft/Terminal) |
 
+## Termius
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Termius_ SSH client | `winget install 9NK1GDVPX09V` | ❌ No |
+
 ## Threema
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Threema Web_ | Go to [web.threema.ch](https://web.threema.ch) and install the PWA | [✅ GitHub](https://github.com/threema-ch/threema-web/) |
 
+## TI Flash Programmer
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Texas Instruments SmartRF _Flash Programmer_ | Download & install from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
+
+## TreeSize
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _TreeSize_ Free | `winget install XP9M26RSCLNT88` | ❌ No |
+
 ## Ubisoft Connect
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Ubisoft Connect_ | `winget install Ubisoft.Connect` | ❌ No |
+
+## Ubuntu
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Ubuntu_ via WSL2 | 1. `wsl --install`<br> 2. Reboot<br> 3. `winget install 9PDXGNCFSCZV` | ✅ Yes |
 
 ## Visual Studio Code
 | <!-- --> | <!-- --> | <!-- --> |
@@ -290,6 +370,11 @@
 |:--|:-:|--:|
 | Windows _Clock_<br>🇩🇪: Windows Alarm & _Uhr_ | `winget install 9WZDNCRFJ3PR` | ❌ No |
 
+## Windows File Explorer
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _File Explorer_<br>🇩🇪: _Explorer_ | Preinstalled | ❌ No |
+
 ## Windows Media Player
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -298,7 +383,17 @@
 ## Windows Notepad
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Editor_ a.k.a. Windows Notepad | `winget install 9MSMLRH6LZF3` | ❌ No |
+| Windows _Notepad_<br>🇩🇪: _Editor_ | `winget install 9MSMLRH6LZF3` | ❌ No |
+
+## Windows Snipping Tool
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Snipping Tool_<br>🇩🇪: _Ausschneiden und skizzieren_ | `winget install 9MZ95KL8MR0L` | ❌ No |
+
+## Windows Task Manager
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Task Manager_ | Preinstalled | ❌ No |
 
 ## WinFsp
 | <!-- --> | <!-- --> | <!-- --> |
@@ -309,3 +404,8 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Xbox_ app | `winget install 9MV0B5HZVK9Z` | ❌ No |
+
+## Xbox Game Bar
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Xbox Game Bar_ | Preinstalled | ❌ No |
