@@ -15,7 +15,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
 2. [Discord](./app-list.md#discord)
 2. [Docker Desktop](./app-list.md#docker-desktop)
-2. **[Drivers ↗](https://knowledgebase.frame.work/en_us/framework-laptop-bios-and-driver-releases-13th-gen-intel-core-BkQBvKWr3)** - v2023-03-28
+2. **[Drivers ↗](https://knowledgebase.frame.work/en_us/framework-laptop-bios-and-driver-releases-13th-gen-intel-core-BkQBvKWr3)**
 2. Microsoft [Family](./app-list.md#microsoft-family), preinstalled
 2. Mozilla [Firefox](./app-list.md#mozilla-firefox)
 2. [File Explorer](./app-list.md#windows-file-explorer), preinstalled

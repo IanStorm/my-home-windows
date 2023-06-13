@@ -34,6 +34,10 @@
 |:--|:-:|--:|
 | _AusweisApp2_ | `winget install Governikus.AusweisApp2` | [✅ GitHub](https://github.com/Governikus/AusweisApp2) |
 
+## Balena Etcher
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _balenaEtcher_ | `winget install Balena.Etcher` | [✅ GitHub](https://github.com/balena-io/etcher) |
 
 ## Bitwarden
 | <!-- --> | <!-- --> | <!-- --> |
@@ -70,6 +74,16 @@
 |:--|:-:|--:|
 | _Discord_ | `winget install XPDC2RH70K22MN`<br>or<br>`winget install Discord.Discord` | ❌ No |
 
+## DisplayLink driver
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _DisplayLink_ driver | `winget install DisplayLink.GraphicsDriver` | ❌ No |
+
+## DisplayLink Manager
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _DisplayLink Manager_ | `winget install 9N09F8V8FS02` | ❌ No |
+
 ## Docker Desktop
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -85,6 +99,11 @@
 |:--|:-:|--:|
 | _EA_ app | `winget install ElectronicArts.EADesktop` | ❌ No |
 
+## Fan Control
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Fan Control_ | Download from their [GitHub ↗](https://github.com/Rem0o/FanControl.Releases) | [❌ No](https://github.com/Rem0o/FanControl.Releases) |
+
 ## FFmpeg
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -99,6 +118,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _GOG Galaxy_ | `winget install GOG.Galaxy` | ❌ No |
+
+## HwInfo
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _HWiNFO_ | `winget install REALiX.HWiNFO` | ❌ No |
 
 ## IanStorm my-smart-home
 | <!-- --> | <!-- --> | <!-- --> |
@@ -320,6 +344,11 @@
 |:--|:-:|--:|
 | _Threema Web_ | Go to [web.threema.ch](https://web.threema.ch) and install the PWA | [✅ GitHub](https://github.com/threema-ch/threema-web/) |
 
+## ThrottleStop
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _ThrottleStop_ | Download from [TechPowerUp ↗](https://www.techpowerup.com/download/techpowerup-throttlestop/) | ❌ No |
+
 ## TI Flash Programmer
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -339,6 +368,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Ubuntu_ via WSL2 | 1. `wsl --install`<br> 2. Reboot<br> 3. `winget install 9PDXGNCFSCZV` | ✅ Yes |
+
+## VeraCrypt
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _VeraCrypt_ | `winget install IDRIX.VeraCrypt` | [✅ GitHub](https://github.com/veracrypt/VeraCrypt) |
 
 ## Visual Studio Code
 | <!-- --> | <!-- --> | <!-- --> |
