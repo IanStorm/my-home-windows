@@ -55,6 +55,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Threema Web](./app-list.md#threema)
 2. [TreeSize](./app-list.md#treesize)
 2. [Ubuntu](./app-list.md#ubuntu)
+2. [VeraCrypt](./app-list.md#veracrypt)
 2. [Visual Studio Code](./app-list.md#visual-studio-code)
 2. [Weather](./app-list.md#msn-weather), preinstalled
 2. [WhatsApp](./app-list.md#whatsapp)
