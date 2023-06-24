@@ -6,11 +6,13 @@ Entries in **bold** are to be prioritized during installation.
 
 1. [7-Zip](./app-list.md#7-zip)
 2. [Blizzard Battle.net](./app-list.md#blizzard-battlenet)
+2. [Cryptomator](./app-list.md#cryptomator) with [WinFSP](./app-list.md#winfsp)
 2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
 2. **Drivers:**
 	* Chipset: Download & install the [chipset driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
 	* GPU: See _Nvidia GeForce Experience_
 	* LAN: Download & install the [LAN driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
+	* (SATA) RAID: Download & install the [RAID driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
 	* SSD: See _Samsung Magician_,<br>then download & install the [NVMe driver](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/960evo/)
 	* USB: Download & install the [USB driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
 2. [EA app](./app-list.md#ea-app)
