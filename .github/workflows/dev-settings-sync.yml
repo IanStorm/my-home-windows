@@ -2,6 +2,9 @@
 # 🛑 Think twice before editing this file! 🛑
 # ⚠️ This file is maintained via https://github.com/IanStorm/dev-settings-sync. ⚠️
 #
+
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+
 name: Are dev settings synced?
 
 on:
@@ -12,11 +15,11 @@ on:
 
 jobs:
   check-job:
-    runs-on: Ubuntu-22.04
+    runs-on: ubuntu-22.04
     if: github.event_name == 'push'
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Docker Pull
         run: docker pull ianstorm/dev-settings-sync
