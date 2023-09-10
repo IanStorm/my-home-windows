@@ -59,4 +59,5 @@ Entries in **bold** are to be prioritized during installation.
 2. [Visual Studio Code](./app-list.md#visual-studio-code)
 2. [Weather](./app-list.md#msn-weather), preinstalled
 2. [WhatsApp](./app-list.md#whatsapp)
+2. [WingetUI](./app-list.md#wingetui)
 2. [Xbox Game Bar](./app-list.md#xbox-game-bar)

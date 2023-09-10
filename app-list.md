@@ -434,6 +434,11 @@
 |:--|:-:|--:|
 | _WinFsp_ (FUSE) | `winget install WinFsp.WinFsp` | [✅ GitHub](https://github.com/winfsp/winfsp) |
 
+## WingetUI
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _WingetUI_ | `winget install SomePythonThings.WingetUIStore` | [✅ GitHub](https://github.com/marticliment/WingetUI) |
+
 ## Xbox app
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|

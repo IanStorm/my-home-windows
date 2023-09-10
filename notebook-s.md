@@ -50,4 +50,5 @@ Entries in **bold** are to be prioritized during installation.
 2. [Wetter](./app-list.md#msn-weather), preinstalled
 2. [WhatsApp](./app-list.md#whatsapp)
 2. [Windows-Fotoanzeige](./app-list.md#microsoft-photos), preinstalled
+2. [WingetUI](./app-list.md#wingetui)
 2. [Xbox](./app-list.md#xbox-app), preinstalled

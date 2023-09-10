@@ -27,4 +27,5 @@ Entries in **bold** are to be prioritized during installation.
 2. **[Terminal](./app-list.md#terminal)**
 2. [Ubisoft Connect](./app-list.md#ubisoft-connect)
 2. [Vortex](./app-list.md#vortex)
+2. [WingetUI](./app-list.md#wingetui)
 2. [Xbox app](./app-list.md#xbox-app)

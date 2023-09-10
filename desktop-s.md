@@ -15,4 +15,5 @@
 2. _Nvidia GeForce Experience_: `winget install Nvidia.GeForceExperience`
 2. _Steam_: `winget install Valve.Steam`
 2. _Western Digital Dashboard_: Download & install from [Western Digital](https://support-en.wd.com/app/products/product-detail/p/1534#WD_downloads)
+2. [WingetUI](./app-list.md#wingetui)
 2. _Xbox_ app: `winget install 9MV0B5HZVK9Z`
