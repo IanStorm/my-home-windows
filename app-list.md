@@ -47,7 +47,7 @@
 ## Blizzard Battle.net
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Blizzard Battle.net_ | Download & install from [Blizzard](https://www.blizzard.com/en-us/apps/battle.net/desktop) | ❌ No |
+| _Blizzard Battle.net_ | Download from [Blizzard](https://www.blizzard.com/en-us/apps/battle.net/desktop) | ❌ No |
 
 ## CDBurnerXP
 | <!-- --> | <!-- --> | <!-- --> |
@@ -102,7 +102,7 @@
 ## Fan Control
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Fan Control_ | Download from their [GitHub ↗](https://github.com/Rem0o/FanControl.Releases) | [❌ No](https://github.com/Rem0o/FanControl.Releases) |
+| _Fan Control_ | Download from their [GitHub](https://github.com/Rem0o/FanControl.Releases) | [❌ No](https://github.com/Rem0o/FanControl.Releases) |
 
 ## FFmpeg
 | <!-- --> | <!-- --> | <!-- --> |
@@ -127,7 +127,7 @@
 ## IanStorm my-smart-home
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Smart Home_ | Go to [my-smart-home](http://my-smart-home:1880/ui) and install it as an App | [✅ GitHub](https://github.com/IanStorm/my-smart-home-node-red) |
+| _Smart Home_ | Go to [`http://my-smart-home:1880/ui`](http://my-smart-home:1880/ui) and install it as an App | [✅ GitHub](https://github.com/IanStorm/my-smart-home-node-red) |
 
 ## Insomnia
 | <!-- --> | <!-- --> | <!-- --> |
@@ -157,7 +157,7 @@
 ## Microsoft 365
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Microsoft 365_<br>f.k.a. Office 365 | 1. Go to [office.com](https://www.office.com) and download the installer<br>2. [Disable the Office keybinding ↗](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-starts-office-appoffice-apps-constantly/68cba06f-62b9-47d8-950f-17a90ffc5387?page=2)<br>3. [Activate link handling ↗](https://support.microsoft.com/en-us/office/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773) | ❌ No |
+| _Microsoft 365_<br>f.k.a. Office 365 | 1. Go to [office.com](https://www.office.com) and download the installer<br>2. [Disable the Office keybinding](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-starts-office-appoffice-apps-constantly/68cba06f-62b9-47d8-950f-17a90ffc5387?page=2)<br>3. [Activate link handling](https://support.microsoft.com/en-us/office/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773) | ❌ No |
 
 ## Microsoft Defender
 | <!-- --> | <!-- --> | <!-- --> |
@@ -267,7 +267,7 @@
 ## Origin
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| EA _Origin_ | Download & install from [EA](https://www.origin.com) | ❌ No |
+| EA _Origin_ | Download from [EA](https://www.origin.com) | ❌ No |
 
 ## Padlet
 | <!-- --> | <!-- --> | <!-- --> |
@@ -292,7 +292,7 @@
 ## Samsung Magician
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Samsung Magician_ | Download & install from [Samsung](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/) | ❌ No |
+| _Samsung Magician_ | Download from [Samsung](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/magician/) | ❌ No |
 
 ## Shutdown Timer Classic
 | <!-- --> | <!-- --> | <!-- --> |
@@ -342,17 +342,17 @@
 ## Threema
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Threema Web_ | Go to [web.threema.ch](https://web.threema.ch) and install the PWA | [✅ GitHub](https://github.com/threema-ch/threema-web/) |
+| _Threema Web_ | Go to [`https://web.threema.ch`](https://web.threema.ch) and install the PWA | [✅ GitHub](https://github.com/threema-ch/threema-web/) |
 
 ## ThrottleStop
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _ThrottleStop_ | Download from [TechPowerUp ↗](https://www.techpowerup.com/download/techpowerup-throttlestop/) | ❌ No |
+| _ThrottleStop_ | Download from [TechPowerUp](https://www.techpowerup.com/download/techpowerup-throttlestop/) | ❌ No |
 
 ## TI Flash Programmer
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| Texas Instruments SmartRF _Flash Programmer_ | Download & install from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
+| Texas Instruments SmartRF _Flash Programmer_ | Download from [TI](https://www.ti.com/tool/FLASH-PROGRAMMER#downloads), account required; don't confuse with v2 | ❌ No |
 
 ## TreeSize
 | <!-- --> | <!-- --> | <!-- --> |
