@@ -69,6 +69,11 @@
 |:--|:-:|--:|
 | _CrystalDiskMark_ | `winget install CrystalDewWorld.CrystalDiskMark` | [✅ GitHub](https://github.com/hiyohiyo/CrystalDiskMark) |
 
+## DDU
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| DisplayDriverUninstaller (_DDU_) | Download from [Wagnardsoft](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) | ❌ No |
+
 ## Discord
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -109,6 +114,11 @@
 |:--|:-:|--:|
 | _FFmpeg_ | `winget install Gyan.FFmpeg.Shared` | [✅ GitHub](https://github.com/GyanD/codexffmpeg/) |
 
+## FurMark
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _FurMark_ | Download from [Geeks3D](https://geeks3d.com/furmark/downloads/) | ❌ No |
+
 ## GitHub Desktop
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -118,6 +128,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _GOG Galaxy_ | `winget install GOG.Galaxy` | ❌ No |
+
+## GPU-Z
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _GPU-Z_ | `winget install TechPowerUp.GPU-Z` | ❌ No |
 
 ## HwInfo
 | <!-- --> | <!-- --> | <!-- --> |
