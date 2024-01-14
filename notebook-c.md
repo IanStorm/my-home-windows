@@ -18,6 +18,8 @@ Entries in **bold** are to be prioritized during installation.
 2. **[Drivers ↗](https://knowledgebase.frame.work/en_us/framework-laptop-bios-and-driver-releases-13th-gen-intel-core-BkQBvKWr3)**
 2. Microsoft [Family](./app-list.md#microsoft-family), preinstalled
 2. Mozilla [Firefox](./app-list.md#mozilla-firefox)
+	1. [Firefox Multi-Account Containers](./app-list.md#firefox-multi-account-containers)
+	2. [Temporary Containers](./app-list.md#temporary-containers)
 2. [File Explorer](./app-list.md#windows-file-explorer), preinstalled
 2. Texas Instruments [Flash Programmer](./app-list.md#ti-flash-programmer)
 2. [GitHub Desktop](./app-list.md#github-desktop)
@@ -27,6 +29,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Logitech Gaming Software](./app-list.md#logitech-gaming-software)
 2. [Media Player](./app-list.md#windows-media-player), preinstalled
 2. [Microsoft 365](./app-list.md#microsoft-365)
+	1. [Outlook CalDav Synchronizer](./app-list.md#outlook-caldav-synchronizer)
 2. [Microsoft Defender](./app-list.md#microsoft-defender)
 2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
 2. [Microsoft Mouse and Keyboard Center](./app-list.md#microsoft-mouse-and-keyboard-center)

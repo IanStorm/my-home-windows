@@ -7,6 +7,10 @@
 		font-size: 1px;
 		visibility: hidden;
 	}
+	h3 {
+		font-size: 1px;
+		visibility: hidden;
+	}
 	table {
 		table-layout: fixed;
 		width: 100%;
@@ -254,6 +258,16 @@
 |:--|:-:|--:|
 | Mozilla _Firefox_ | `winget install 9NZVDKPMR9RD` | [✅ Mozilla Central](https://hg.mozilla.org/mozilla-central/) |
 
+### Firefox Multi-Account Containers
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| &nbsp;&nbsp;&nbsp;&nbsp;_Firefox Multi-Account Containers_ | Download from [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/multi-account-containers/) | [✅ GitHub](https://github.com/mozilla/multi-account-containers) |
+
+### Temporary Containers
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| &nbsp;&nbsp;&nbsp;&nbsp;_Temporary Containers_ | Download from [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/temporary-containers/) | [✅ GitHub](https://github.com/stoically/temporary-containers) |
+
 ## MSN Weather
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -283,6 +297,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | EA _Origin_ | Download from [EA](https://www.origin.com) | ❌ No |
+
+## Outlook CalDav Synchronizer
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Outlook CalDav Synchronizer_ | `winget install aluxnimm.outlookcaldavsynchronizer` | [✅ GitHub](https://github.com/aluxnimm/outlookcaldavsynchronizer) |
 
 ## Padlet
 | <!-- --> | <!-- --> | <!-- --> |
