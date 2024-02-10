@@ -44,7 +44,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Surface Diagnostic Toolkit](./app-list.md#surface-diagnostic-toolkit), preinstalled
 2. [TeamViewer](./app-list.md#teamviewer)
 2. **[Terminal](./app-list.md#terminal), preinstalled**
-2. [Threema Web](./app-list.md#threema)
+2. [Threema](./app-list.md#threema)
 2. [Uhr](./app-list.md#windows-clock), preinstalled
 2. [Visual Studio Code](./app-list.md#visual-studio-code)
 2. [Wetter](./app-list.md#msn-weather), preinstalled

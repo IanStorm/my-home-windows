@@ -55,7 +55,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Task Manager](./app-list.md#windows-task-manager), preinstalled
 2. [TeamViewer](./app-list.md#teamviewer)
 2. **[Terminal](./app-list.md#terminal), preinstalled**
-2. [Threema Web](./app-list.md#threema)
+2. [Threema](./app-list.md#threema)
 2. [TreeSize](./app-list.md#treesize)
 2. [Ubuntu](./app-list.md#ubuntu)
 2. [VeraCrypt](./app-list.md#veracrypt)

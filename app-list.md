@@ -376,7 +376,7 @@
 ## Threema
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Threema Web_ | Go to [`https://web.threema.ch`](https://web.threema.ch) and install the PWA | [✅ GitHub](https://github.com/threema-ch/threema-web/) |
+| _Threema_ | `winget install Threema.Threema` | [✅ GitHub](https://github.com/threema-ch/threema-web-electron) |
 
 ## ThrottleStop
 | <!-- --> | <!-- --> | <!-- --> |
