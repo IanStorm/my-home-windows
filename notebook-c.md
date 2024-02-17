@@ -29,7 +29,6 @@ Entries in **bold** are to be prioritized during installation.
 2. [Logitech Gaming Software](./app-list.md#logitech-gaming-software)
 2. [Media Player](./app-list.md#windows-media-player), preinstalled
 2. [Microsoft 365](./app-list.md#microsoft-365)
-	1. [Outlook CalDav Synchronizer](./app-list.md#outlook-caldav-synchronizer)
 2. [Microsoft Defender](./app-list.md#microsoft-defender)
 2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
 2. [Microsoft Mouse and Keyboard Center](./app-list.md#microsoft-mouse-and-keyboard-center)

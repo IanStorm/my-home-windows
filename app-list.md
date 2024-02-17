@@ -298,10 +298,11 @@
 |:--|:-:|--:|
 | EA _Origin_ | Download from [EA](https://www.origin.com) | ❌ No |
 
+<!--
 ## Outlook CalDav Synchronizer
-| <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Outlook CalDav Synchronizer_ | `winget install aluxnimm.outlookcaldavsynchronizer` | [✅ GitHub](https://github.com/aluxnimm/outlookcaldavsynchronizer) |
+-->
 
 ## Padlet
 | <!-- --> | <!-- --> | <!-- --> |
