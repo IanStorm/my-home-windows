@@ -168,6 +168,11 @@
 |:--|:-:|--:|
 | _Logitech Gaming Software_ | `winget install Logitech.LGS` | ❌ No |
 
+## Logitech Options Plus
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Logi Options+_ | `winget install Logitech.OptionsPlus` | ❌ No |
+
 ## Logitech SetPoint
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|

@@ -27,11 +27,11 @@ Entries in **bold** are to be prioritized during installation.
 2. [Intel Graphics Command Center](./app-list.md#intel-graphics-command-center), preinstalled
 2. [IrfanView](./app-list.md#irfanview)
 2. [Logitech Gaming Software](./app-list.md#logitech-gaming-software)
+2. [Logi Options+](./app-list.md#logitech-options-plus)
 2. [Media Player](./app-list.md#windows-media-player), preinstalled
 2. [Microsoft 365](./app-list.md#microsoft-365)
 2. [Microsoft Defender](./app-list.md#microsoft-defender)
 2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
-2. [Microsoft Mouse and Keyboard Center](./app-list.md#microsoft-mouse-and-keyboard-center)
 2. [Microsoft Store](./app-list.md#microsoft-store), preinstalled
 2. [Microsoft To Do](./app-list.md#microsoft-to-do), preinstalled
 2. [Monitorian](./app-list.md#monitorian)

@@ -19,7 +19,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [EA app](./app-list.md#ea-app)
 2. [FurMark](./app-list.md#furmark)
 2. [GPU-Z](./app-list.md#gpu-z)
-2. [Logitech SetPoint](./app-list.md#logitech-setpoint)
+2. [Logi Options+](./app-list.md#logitech-options-plus)
 2. [Microsoft 365](./app-list.md#microsoft-365)
 2. [Microsoft Defender](./app-list.md#microsoft-defender), preinstalled
 2. **[Parsec](./app-list.md#parsec)**
