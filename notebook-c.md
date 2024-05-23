@@ -16,6 +16,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Discord](./app-list.md#discord)
 2. [Docker Desktop](./app-list.md#docker-desktop)
 2. **[Drivers ↗](https://knowledgebase.frame.work/en_us/framework-laptop-bios-and-driver-releases-13th-gen-intel-core-BkQBvKWr3)**
+2. [Exact Audio Copy](./app-list.md#exact-audio-copy)
 2. Microsoft [Family](./app-list.md#microsoft-family), preinstalled
 2. Mozilla [Firefox](./app-list.md#mozilla-firefox)
 	1. [Firefox Multi-Account Containers](./app-list.md#firefox-multi-account-containers)

@@ -108,6 +108,11 @@
 |:--|:-:|--:|
 | _EA_ app | `winget install ElectronicArts.EADesktop` | ❌ No |
 
+## Exact Audio Copy
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Exact Audio Copy_ | `winget install AndreWiethoff.ExactAudioCopy` | ❌ No |
+
 ## Fan Control
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
