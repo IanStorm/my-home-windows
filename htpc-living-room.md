@@ -44,3 +44,5 @@
 | _Xbox Game Bar_ | Preinstalled | ❌ No |
 | _YouTube_ | Install the `https://www.youtube.com` PWA | N/A |
 | _ZDF_ | `winget install 9WZDNCRFJ2QK` | ? |
+
+1. [MagentaTV](./app-list.md#magentatv)

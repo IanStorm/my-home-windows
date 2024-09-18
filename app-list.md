@@ -183,6 +183,11 @@
 |:--|:-:|--:|
 | _Logitech SetPoint_ | `winget install Logitech.SetPoint` | ❌ No |
 
+## MagentaTV
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _MagentaTV_ | Go to [`https://web2.magentatv.de`](https://web2.magentatv.de) and install it as an App | ❌ No |
+
 ## Microsoft 365
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
