@@ -26,6 +26,6 @@ Entries in **bold** are to be prioritized during installation.
 2. [Samsung Magician](./app-list.md#samsung-magician)
 2. [Steam](./app-list.md#steam)
 2. **[Terminal](./app-list.md#terminal)**
+2. [UniGetUI](./app-list.md#unigetui)
 2. [Vortex](./app-list.md#vortex)
-2. [WingetUI](./app-list.md#wingetui)
 2. [Xbox app](./app-list.md#xbox-app)

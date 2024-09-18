@@ -58,9 +58,9 @@ Entries in **bold** are to be prioritized during installation.
 2. [Threema](./app-list.md#threema)
 2. [TreeSize](./app-list.md#treesize)
 2. [Ubuntu](./app-list.md#ubuntu)
+2. [UniGetUI](./app-list.md#unigetui)
 2. [VeraCrypt](./app-list.md#veracrypt)
 2. [Visual Studio Code](./app-list.md#visual-studio-code)
 2. [Weather](./app-list.md#msn-weather), preinstalled
 2. [WhatsApp](./app-list.md#whatsapp)
-2. [WingetUI](./app-list.md#wingetui)
 2. [Xbox Game Bar](./app-list.md#xbox-game-bar)

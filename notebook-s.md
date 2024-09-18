@@ -46,9 +46,9 @@ Entries in **bold** are to be prioritized during installation.
 2. **[Terminal](./app-list.md#terminal), preinstalled**
 2. [Threema](./app-list.md#threema)
 2. [Uhr](./app-list.md#windows-clock), preinstalled
+2. [UniGetUI](./app-list.md#unigetui)
 2. [Visual Studio Code](./app-list.md#visual-studio-code)
 2. [Wetter](./app-list.md#msn-weather), preinstalled
 2. [WhatsApp](./app-list.md#whatsapp)
 2. [Windows-Fotoanzeige](./app-list.md#microsoft-photos), preinstalled
-2. [WingetUI](./app-list.md#wingetui)
 2. [Xbox](./app-list.md#xbox-app), preinstalled

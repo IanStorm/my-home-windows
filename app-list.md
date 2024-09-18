@@ -419,6 +419,11 @@
 |:--|:-:|--:|
 | _Ubuntu_ via WSL2 | 1. `wsl --install`<br> 2. Reboot<br> 3. `winget install 9PDXGNCFSCZV` | ✅ Yes |
 
+## UniGetUI
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _UniGetUI_<br>f.k.a. WingetUI | `winget install SomePythonThings.WingetUIStore` | [✅ GitHub](https://github.com/marticliment/UniGetUI) |
+
 ## VeraCrypt
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -483,11 +488,6 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _WinFsp_ (FUSE) | `winget install WinFsp.WinFsp` | [✅ GitHub](https://github.com/winfsp/winfsp) |
-
-## WingetUI
-| <!-- --> | <!-- --> | <!-- --> |
-|:--|:-:|--:|
-| _WingetUI_ | `winget install SomePythonThings.WingetUIStore` | [✅ GitHub](https://github.com/marticliment/WingetUI) |
 
 ## Xbox app
 | <!-- --> | <!-- --> | <!-- --> |

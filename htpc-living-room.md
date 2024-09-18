@@ -46,3 +46,4 @@
 | _ZDF_ | `winget install 9WZDNCRFJ2QK` | ? |
 
 1. [MagentaTV](./app-list.md#magentatv)
+2. [UniGetUI](./app-list.md#unigetui)
