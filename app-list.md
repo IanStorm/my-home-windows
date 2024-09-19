@@ -28,6 +28,11 @@
 |:--|:-:|--:|
 | _7-Zip_ | `winget install 7zip.7zip` | [✅ SourceForge](https://sourceforge.net/projects/sevenzip/files/) |
 
+## Armoury Crate
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| ASUS _Armoury Crate_ | `winget install Asus.ArmouryCrate` | ❌ No |
+
 ## Audacity
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|

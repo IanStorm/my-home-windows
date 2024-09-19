@@ -4,6 +4,7 @@
 
 1. _Parsec_: `winget install Parsec.Parsec`
 2. _Windows Terminal_: `winget install 9N0DX20HK701`
+2. [Armoury Crate](./app-list.md#armoury-crate)
 2. Drivers:
 	* Chipset: Download & install the [chipset driver](https://www.asus.com/de/Motherboards-Components/Motherboards/All-series/TUF-GAMING-B550M-PLUS/HelpDesk_Download/)
 	* GPU: See _Nvidia GeForce Experience_
