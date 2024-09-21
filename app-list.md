@@ -113,6 +113,11 @@
 |:--|:-:|--:|
 | _EA_ app | `winget install ElectronicArts.EADesktop` | ❌ No |
 
+## Everything
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Everything_ | `winget install voidtools.Everything` | [❌ No](https://www.voidtools.com/forum/viewtopic.php?p=1705&sid=ea584800f036ce2c94f485e3f3d03856#p1705) |
+
 ## Exact Audio Copy
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
