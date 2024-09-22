@@ -434,6 +434,11 @@
 |:--|:-:|--:|
 | _UniGetUI_<br>f.k.a. WingetUI | `winget install SomePythonThings.WingetUIStore` | [✅ GitHub](https://github.com/marticliment/UniGetUI) |
 
+## usbipd
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _usbipd-win_ | `winget install dorssel.usbipd-win` | [✅ GitHub](https://github.com/dorssel/usbipd-win) |
+
 ## VeraCrypt
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
