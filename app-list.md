@@ -454,6 +454,11 @@
 |:--|:-:|--:|
 | _Vortex_ mod manager | `winget install NexusMods.Vortex` | [✅ GitHub](https://github.com/Nexus-Mods/Vortex) |
 
+## Western Digital Dashboard
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Western Digital _Dashboard_ | `winget install WesternDigital.Dashboard` | ? |
+
 ## WhatsApp
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|

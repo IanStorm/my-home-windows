@@ -64,5 +64,6 @@ Entries in **bold** are to be prioritized during installation.
 2. [VeraCrypt](./app-list.md#veracrypt)
 2. [Visual Studio Code](./app-list.md#visual-studio-code)
 2. [Weather](./app-list.md#msn-weather), preinstalled
+2. [Western Digital Dashboard](./app-list.md#western-digital-dashboard)
 2. [WhatsApp](./app-list.md#whatsapp)
 2. [Xbox Game Bar](./app-list.md#xbox-game-bar)
