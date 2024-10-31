@@ -9,6 +9,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [AusweisApp2](./app-list.md#ausweisapp2)
 2. **[Bitwarden](./app-list.md#bitwarden)**
 2. [Brother iPrint&Scan](./app-list.md#brother-iprintscan)
+	1. [Scanner driver](https://support.brother.com/g/b/branch/downloadend.aspx?c=de&lang=de&prod=ads1300_us_eu_as&os=10068&dlid=dlf106262_000&flang=17&type3=11)
 2. [Calculator](./app-list.md#windows-calculator), preinstalled
 2. [Camera](./app-list.md#windows-camera), preinstalled
 2. [Clock](./app-list.md#windows-clock), preinstalled

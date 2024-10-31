@@ -8,6 +8,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [AusweisApp2](./app-list.md#ausweisapp2)
 2. **[Bitwarden](./app-list.md#bitwarden)**
 2. [Brother iPrint&Scan](./app-list.md#brother-iprintscan)
+	1. [Scanner driver](https://support.brother.com/g/b/branch/downloadend.aspx?c=de&lang=de&prod=ads1300_us_eu_as&os=10068&dlid=dlf106262_000&flang=17&type3=11)
 2. [Cisco AnyConnect](https://www.hs-bremen.de/studieren/im-studium/zugaenge-und-portale/vpn-verbindung-einrichten/) ↗
 2. [Citavi 6](https://www.citavi.com/de/download) ↗
 2. [Cortana](./app-list.md#cortana), preinstalled
