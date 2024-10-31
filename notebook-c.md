@@ -8,6 +8,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Audacity](./app-list.md#audacity) with [FFmpeg](./app-list.md#ffmpeg)
 2. [AusweisApp2](./app-list.md#ausweisapp2)
 2. **[Bitwarden](./app-list.md#bitwarden)**
+2. [Brother iPrint&Scan](./app-list.md#brother-iprintscan)
 2. [Calculator](./app-list.md#windows-calculator), preinstalled
 2. [Camera](./app-list.md#windows-camera), preinstalled
 2. [Clock](./app-list.md#windows-clock), preinstalled

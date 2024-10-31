@@ -7,6 +7,7 @@ Entries in **bold** are to be prioritized during installation.
 1. [7-Zip](./app-list.md#7-zip)
 2. [AusweisApp2](./app-list.md#ausweisapp2)
 2. **[Bitwarden](./app-list.md#bitwarden)**
+2. [Brother iPrint&Scan](./app-list.md#brother-iprintscan)
 2. [Cisco AnyConnect](https://www.hs-bremen.de/studieren/im-studium/zugaenge-und-portale/vpn-verbindung-einrichten/) ↗
 2. [Citavi 6](https://www.citavi.com/de/download) ↗
 2. [Cortana](./app-list.md#cortana), preinstalled

@@ -58,6 +58,11 @@
 |:--|:-:|--:|
 | _Blizzard Battle.net_ | Download from [Blizzard](https://www.blizzard.com/en-us/apps/battle.net/desktop) | ❌ No |
 
+## Brother iPrint&Scan
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Brother iPrint&Scan_ | Download from [Brother](https://support.brother.com/g/b/branch/downloadend.aspx?c=de&lang=de&prod=ads1300_us_eu_as&os=10068&dlid=dlf106359_000&flang=17&type3=10272) | ❌ No |
+
 ## CDBurnerXP
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
