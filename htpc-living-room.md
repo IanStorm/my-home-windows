@@ -2,48 +2,47 @@
 
 [⬅️ Back](./README.md)
 
-| App name | Instruction | OSS? |
-| -------- | ----------- | ---- |
-| BIOS | Download & install the [BIOS updates](https://www.gigabyte.com/de/Motherboard/B450-I-AORUS-PRO-WIFI-rev-10/support#support-dl-bios) in the following order:<br>1. `F30`, 2. `F32`, 3. `F40`, & 4. `F63c` | ❌ No |
-| _Parsec_ | `winget install Parsec.Parsec` | ❌ No |
-| Windows _Terminal_ | Preinstalled | [✅ GitHub](https://github.com/Microsoft/Terminal) |
-| Drivers: Audio | Install _Realtek High Definition Audio Driver (DCH)_ via _APP Center_ | ❌ No |
-| Drivers: Bluetooth | Install _Intel Bluetooth Driver_ via _APP Center_ | ❌ No |
-| Drivers: Chipset | Install _AMD Chipset Driver_ via _APP Center_ | ❌ No |
-| Drivers: GPU | See _AMD Software_ | / |
-| Drivers: WiFi | Install _Intel WiFi UWD_ via _APP Center_ | ❌ No |
-| - | - | - |
-| _AMD Software_ | Download & install from [AMD](https://www.amd.com/en/support) | ❌ No |
-| Gigabyte _APP Center_ | Download & install from [Gigabyte](https://www.gigabyte.com/de/Motherboard/B450-I-AORUS-PRO-WIFI-rev-10/support#support-dl-utility) | ❌ No |
-| _ARD_ | Install the `https://www.ardmediathek.de` Progressive Web App (PWA) | N/A |
-| _Camera_ | Preinstalled | ? |
-| _Clock_ | Preinstalled | ? |
-| _Connect_ | Open _Settings_ app ➡️ Select _Apps_ ➡️ _Add an optional feature_ ➡️ _Wireless Display_ | ❌ No |
-| _Controller Companion_ | Install via [Steam](https://store.steampowered.com/app/367670) | ❌ No |
-| _File Explorer_ | Preinstalled | ❌ No |
-| _Logi Options+_ | `winget install Logitech.OptionsPlus` | ❌ No |
-| _Mail_ and _Calendar_ | Preinstalled | ❌ No |
-| _Media Player_ | Preinstalled | ? |
-| _Microsoft Edge_ browser | Preinstalled | ? |
-| _Microsoft Store_ | Preinstalled | ❌ No |
-| _Netflix_ | `winget install 9WZDNCRFJ3TJ` | ❌ No |
-| Microsoft _OneDrive_ | Preinstalled | ❌ No |
-| _Photos_ | Preinstalled | ❌ No |
-| _Realtek Audio Console_ | Preinstalled | ❌ No |
-| _Shutdown Timer Classic_ | `winget install 9NTDG6C9BTTW` | [✅ GitHub](https://github.com/lukaslangrock/ShutdownTimerClassic) |
-| _Smart Home_ | Create an _Edge_ shortcut for `http://my-smart-home:1880` | N/A |
-| _Snipping Tool_ | Preinstalled | ? |
-| _Sportschau_ | Create an _Edge_ shortcut for `https://www.sportschau.de` | N/A |
-| _Spotify_ | `winget install 9NCBCSZSJRSB` | ? |
-| _Steam_ | `winget install Valve.Steam` | ❌ No |
-| _Task Manager_ | Preinstalled | ? |
-| Microsoft _To Do_ | Preinstalled | ? |
-| MSN _Weather_ | Preinstalled | ? |
-| _Werder.TV_ | Create an _Edge_ shortcut for `https://www.werder.de/werdertv` | N/A |
-| _WerderFM_ | Create an _Edge_ shortcut for `https://www.werder.de/aktuell/audio/live-radio` | N/A |
-| _Xbox Game Bar_ | Preinstalled | ❌ No |
-| _YouTube_ | Install the `https://www.youtube.com` PWA | N/A |
-| _ZDF_ | `winget install 9WZDNCRFJ2QK` | ? |
+Entries in **bold** are to be prioritized during installation.
 
-1. [MagentaTV](./app-list.md#magentatv)
+1. **_AMD Software_**: See _Drivers_ ➡️ _GPU_
+2. [ARD Mediathek](./app-list.md#ard-mediathek)
+2. [Camera](./app-list.md#windows-camera), preinstalled
+2. [Clock](./app-list.md#windows-clock), preinstalled
+2. [Connect](./app-list.md#windows-connect)
+2. [Controller Companion](./app-list.md#controller-companion)
+2. [CPU-Z](./app-list.md#cpu-z)
+2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
+2. [DDU](./app-list.md#ddu)
+2. **Drivers:**
+	* Audio: Install _Realtek High Definition Audio Driver (DCH)_ via _APP Center_
+	* [BIOS ↗](https://www.gigabyte.com/de/Motherboard/B450-I-AORUS-PRO-WIFI-rev-10/support#support-dl-bios): Download & install in the following order: 1. `F30`, 2. `F32`, 3. `F40`, & 4. `F65`
+	* Bluetooth: Install _Intel Bluetooth Driver_ via _APP Center_
+	* Chipset: Install _AMD Chipset Driver_ via _APP Center_
+	* GPU: Download from [AMD ↗](https://www.amd.com/en/support)
+	* WiFi: Install _Intel WiFi UWD_ via _APP Center_
+2. [File Explorer](./app-list.md#windows-file-explorer), preinstalled
+2. **[Gigabyte APP Center ↗](https://www.gigabyte.com/de/Motherboard/B450-I-AORUS-PRO-WIFI-rev-10/support#support-dl-utility)**
+2. [Kingston SSD Manager](./app-list.md#kingston-ssd-manager), legacy v1.1.x.x required!
+2. [Logi Options+](./app-list.md#logitech-options-plus)
+2. [MagentaTV](./app-list.md#magentatv)
+2. [Media Player](./app-list.md#windows-media-player), preinstalled
+2. [Microsoft Defender](./app-list.md#microsoft-defender)
+2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
+2. [Microsoft Store](./app-list.md#microsoft-store), preinstalled
+2. [Netflix](./app-list.md#netflix)
+2. [OneDrive](./app-list.md#onedrive), preinstalled
+2. **[Parsec](./app-list.md#parsec)**
+2. [Photos](./app-list.md#microsoft-photos), preinstalled
+2. Realtek Audio Console: See _Drivers_ ➡️ _Audio_
+2. [Shutdown Timer Classic](./app-list.md#shutdown-timer-classic)
+2. [Smart Home](./app-list.md#ianstorm-my-smart-home)
+2. [Snipping Tool](./app-list.md#windows-snipping-tool)
+2. _Sportschau_: Create a _Microsoft Edge_ shortcut for `https://www.sportschau.de`
+2. [Spotify](./app-list.md#spotify)
+2. [Steam](./app-list.md#steam)
+2. [Task Manager](./app-list.md#windows-task-manager), preinstalled
+2. **[Terminal](./app-list.md#terminal), preinstalled**
 2. [UniGetUI](./app-list.md#unigetui)
+2. [Weather](./app-list.md#msn-weather), preinstalled
+2. [YouTube](./app-list.md#youtube)
+2. [ZDFmediathek](./app-list.md#zdfmediathek)

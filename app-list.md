@@ -28,6 +28,11 @@
 |:--|:-:|--:|
 | _7-Zip_ | `winget install 7zip.7zip` | [✅ SourceForge](https://sourceforge.net/projects/sevenzip/files/) |
 
+## ARD Mediathek
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _ARD Mediathek_ | Install the `https://www.ardmediathek.de` Progressive Web App (PWA) | N/A |
+
 ## Armoury Crate
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -68,10 +73,20 @@
 |:--|:-:|--:|
 | _CDBurnerXP_ | `winget install Canneverbe.CDBurnerXP` | ❌ No |
 
+## Controller Companion
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Controller Companion_ | Install via [Steam](https://store.steampowered.com/app/367670) | ❌ No |
+
 ## Cortana
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Cortana_ | `winget install 9NFFX4SZZ23L` | ❌ No |
+
+## CPU-Z
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _CPU-Z_ | `winget install CPUID.CPU-Z` | ❌ No |
 
 ## Cryptomator
 | <!-- --> | <!-- --> | <!-- --> |
@@ -143,6 +158,11 @@
 |:--|:-:|--:|
 | _FurMark_ | Download from [Geeks3D](https://geeks3d.com/furmark/downloads/) | ❌ No |
 
+## Gigabyte App Center
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Gigabyte _APP Center_ | ... | ❌ No |
+
 ## GitHub Desktop
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -182,6 +202,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _IrfanView_ | `winget install 9PJZ3BTL5PV6` | ❌ No |
+
+## Kingston SSD Manager
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Kingston SSD Manager_ | `winget install Kingston.SSDManager` | ? |
 
 ## Logitech Gaming Software
 | <!-- --> | <!-- --> | <!-- --> |
@@ -484,6 +509,11 @@
 |:--|:-:|--:|
 | Windows _Clock_<br>🇩🇪: Windows Alarm & _Uhr_ | `winget install 9WZDNCRFJ3PR` | ❌ No |
 
+## Windows Connect
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| Windows _Connect_ | Open _Settings_ app ➡️ Select _Apps_ ➡️ _Add an optional feature_ ➡️ _Wireless Display_ | | ❌ No |
+
 ## Windows File Explorer
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -523,3 +553,13 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Xbox Game Bar_ | Preinstalled | ❌ No |
+
+## YouTube
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _YouTube_ | Install the `https://www.youtube.com` Progressive Web App (PWA) | N/A |
+
+## ZDFmediathek
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _ZDFmediathek_ | `winget install 9WZDNCRFJ2QK` | ❌ No |
