@@ -14,6 +14,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Cortana](./app-list.md#cortana), preinstalled
 2. **[Cryptomator](./app-list.md#cryptomator) with [WinFSP](./app-list.md#winfsp)**
 2. [Discord](./app-list.md#discord)
+2. [Disney+](./app-list.md#disneyplus)
 2. [easyroam](https://www.hs-bremen.de/studieren/im-studium/zugaenge-und-portale/) ↗
 2. [Editor](./app-list.md#windows-notepad)
 2. Einstellungen, preinstalled

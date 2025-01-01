@@ -16,6 +16,7 @@ Entries in **bold** are to be prioritized during installation.
 2. **[Cryptomator](./app-list.md#cryptomator) with [WinFSP](./app-list.md#winfsp)**
 2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
 2. [Discord](./app-list.md#discord)
+2. [Disney+](./app-list.md#disneyplus)
 2. [Docker Desktop](./app-list.md#docker-desktop)
 2. **[Drivers ↗](https://knowledgebase.frame.work/en_us/framework-laptop-bios-and-driver-releases-13th-gen-intel-core-BkQBvKWr3)**
 2. [Everything](./app-list.md#everything)

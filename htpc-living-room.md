@@ -13,6 +13,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [CPU-Z](./app-list.md#cpu-z)
 2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
 2. [DDU](./app-list.md#ddu)
+2. [Disney+](./app-list.md#disneyplus)
 2. **Drivers:**
 	* Audio: Install _Realtek High Definition Audio Driver (DCH)_ via _APP Center_
 	* [BIOS ↗](https://www.gigabyte.com/de/Motherboard/B450-I-AORUS-PRO-WIFI-rev-10/support#support-dl-bios): Download & install in the following order: 1. `F30`, 2. `F32`, 3. `F40`, & 4. `F65`

@@ -108,6 +108,11 @@
 |:--|:-:|--:|
 | _Discord_ | `winget install XPDC2RH70K22MN`<br>or<br>`winget install Discord.Discord` | ❌ No |
 
+## DisneyPlus
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Disney+_ | `winget install 9NXQXXLFST89` | ❌ No |
+
 ## DisplayLink driver
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
