@@ -457,7 +457,7 @@
 ## Ubisoft Connect
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Ubisoft Connect_ | `winget install Ubisoft.Connect` | ❌ No |
+| _Ubisoft Connect_<br>f.k.a. Uplay | `winget install Ubisoft.Connect` | ❌ No |
 
 ## Ubuntu
 | <!-- --> | <!-- --> | <!-- --> |
