@@ -48,6 +48,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [TeamViewer](./app-list.md#teamviewer)
 2. **[Terminal](./app-list.md#terminal), preinstalled**
 2. [Threema](./app-list.md#threema)
+2. [TreeSize](./app-list.md#treesize)
 2. [Uhr](./app-list.md#windows-clock), preinstalled
 2. [UniGetUI](./app-list.md#unigetui)
 2. [Visual Studio Code](./app-list.md#visual-studio-code)

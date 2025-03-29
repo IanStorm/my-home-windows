@@ -15,6 +15,7 @@
 2. _Nvidia Control Panel_: `winget install 9NF8H0H7WMLT`
 2. _Nvidia GeForce Experience_: `winget install Nvidia.GeForceExperience`
 2. _Steam_: `winget install Valve.Steam`
+2. [TreeSize](./app-list.md#treesize)
 2. [UniGetUI](./app-list.md#unigetui)
 2. [Vortex](./app-list.md#vortex)
 2. _Western Digital Dashboard_: Download & install from [Western Digital](https://support-en.wd.com/app/products/product-detail/p/1534#WD_downloads)

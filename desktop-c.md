@@ -7,7 +7,6 @@ Entries in **bold** are to be prioritized during installation.
 1. [7-Zip](./app-list.md#7-zip)
 2. _AMD Software_: See _Drivers_ ➡️ _GPU_
 2. [Blizzard Battle.net](./app-list.md#blizzard-battlenet)
-2. [Cryptomator](./app-list.md#cryptomator) with [WinFSP](./app-list.md#winfsp)
 2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
 2. **Drivers:**
 	* Chipset: Download & install the [chipset driver](https://rog.asus.com/de/motherboards/rog-strix/rog-strix-x470-f-gaming-model/helpdesk_download)
