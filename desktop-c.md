@@ -21,6 +21,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Logi Options+](./app-list.md#logitech-options-plus)
 2. [Microsoft 365](./app-list.md#microsoft-365)
 2. [Microsoft Defender](./app-list.md#microsoft-defender), preinstalled
+2. [Nextcloud](./app-list.md#nextcloud)
 2. **[Parsec](./app-list.md#parsec)**
 2. [Samsung Magician](./app-list.md#samsung-magician)
 2. [Steam](./app-list.md#steam)

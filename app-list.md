@@ -343,6 +343,11 @@
 |:--|:-:|--:|
 | _Netflix_ | `winget install 9WZDNCRFJ3TJ` | ❌ No |
 
+## Nextcloud
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Nextcloud_ | `winget install Nextcloud.NextcloudDesktop` | [✅ GitHub](https://github.com/nextcloud/desktop) |
+
 ## Nvidia Control Panel
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
@@ -383,6 +388,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Phone Link_<br>🇩🇪: _Smartphone-Link_ | `winget install 9NMPJ99VJBWV` | ❌ No |
+
+## Proton Drive
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Proton Drive_ | `winget install Proton.ProtonDrive` | [✅ GitHub](https://github.com/ProtonDriveApps/windows-drive) |
 
 ## Raspberry Pi Imager
 | <!-- --> | <!-- --> | <!-- --> |
