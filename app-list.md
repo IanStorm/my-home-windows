@@ -318,6 +318,11 @@
 |:--|:-:|--:|
 | Mozilla _Firefox_ | `winget install 9NZVDKPMR9RD` | [✅ Mozilla Central](https://hg.mozilla.org/mozilla-central/) |
 
+### Containerise
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| &nbsp;&nbsp;&nbsp;&nbsp;_Containerise_ | Download from [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/containerise/) | [✅ GitHub](https://github.com/kintesh/containerise) |
+
 ### Firefox Multi-Account Containers
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|

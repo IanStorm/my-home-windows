@@ -23,7 +23,8 @@ Entries in **bold** are to be prioritized during installation.
 2. [Exact Audio Copy](./app-list.md#exact-audio-copy)
 2. Microsoft [Family](./app-list.md#microsoft-family), preinstalled
 2. Mozilla [Firefox](./app-list.md#mozilla-firefox)
-	1. [Firefox Multi-Account Containers](./app-list.md#firefox-multi-account-containers)
+	1. [Containerise](./app-list.md#containerise)
+	2. [Firefox Multi-Account Containers](./app-list.md#firefox-multi-account-containers)
 	2. [Temporary Containers](./app-list.md#temporary-containers)
 2. [File Explorer](./app-list.md#windows-file-explorer), preinstalled
 2. Texas Instruments [Flash Programmer](./app-list.md#ti-flash-programmer)
