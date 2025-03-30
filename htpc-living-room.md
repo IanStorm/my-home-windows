@@ -11,6 +11,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Connect](./app-list.md#windows-connect)
 2. [Controller Companion](./app-list.md#controller-companion)
 2. [CPU-Z](./app-list.md#cpu-z)
+2. [Cryptomator](./app-list.md#cryptomator) with [WinFSP](./app-list.md#winfsp)
 2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
 2. [DDU](./app-list.md#ddu)
 2. [Disney+](./app-list.md#disneyplus)
@@ -31,6 +32,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
 2. [Microsoft Store](./app-list.md#microsoft-store), preinstalled
 2. [Netflix](./app-list.md#netflix)
+2. [Nextcloud](./app-list.md#nextcloud)
 2. [OneDrive](./app-list.md#onedrive), preinstalled
 2. **[Parsec](./app-list.md#parsec)**
 2. [Photos](./app-list.md#microsoft-photos), preinstalled
