@@ -358,10 +358,11 @@
 |:--|:-:|--:|
 | _Nvidia GeForce Experience_ | `winget install Nvidia.GeForceExperience` | ❌ No |
 
+<!--
 ## OneDrive
-| <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | Microsoft _OneDrive_ | `winget install Microsoft.OneDrive` | ❌ No |
+-->
 
 ## Origin
 | <!-- --> | <!-- --> | <!-- --> |
