@@ -360,6 +360,7 @@
 
 <!--
 ## OneDrive
+	@deprecated Use Nextcloud Files instead
 |:--|:-:|--:|
 | Microsoft _OneDrive_ | `winget install Microsoft.OneDrive` | ❌ No |
 -->
