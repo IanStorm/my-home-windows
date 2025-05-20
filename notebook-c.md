@@ -43,7 +43,8 @@ Entries in **bold** are to be prioritized during installation.
 2. [Monitorian](./app-list.md#monitorian)
 2. [Mp3tag](./app-list.md#mp3tag)
 2. [Netflix](./app-list.md#netflix)
-2. **[Nextcloud](./app-list.md#nextcloud)**
+2. **[Nextcloud Files](./app-list.md#nextcloud-files)**
+2. [Nextcloud Talk](./app-list.md#nextcloud-talk)
 2. [Notepad](./app-list#windows-notepad)
 2. [Paint](./app-list.md#microsoft-paint), preinstalled
 2. [Parsec](./app-list.md#parsec)

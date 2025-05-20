@@ -32,7 +32,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
 2. [Microsoft Store](./app-list.md#microsoft-store), preinstalled
 2. [Netflix](./app-list.md#netflix)
-2. [Nextcloud](./app-list.md#nextcloud)
+2. [Nextcloud Files](./app-list.md#nextcloud-files)
 2. **[Parsec](./app-list.md#parsec)**
 2. [Photos](./app-list.md#microsoft-photos), preinstalled
 2. Realtek Audio Console: See _Drivers_ ➡️ _Audio_

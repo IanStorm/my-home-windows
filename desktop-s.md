@@ -12,7 +12,7 @@
 2. [CrystalDiskMark](./app-list.md#crystaldiskmark)
 2. _EA_ app: `winget install ElectronicArts.EADesktop`
 2. _Logitech SetPoint_: `winget install Logitech.SetPoint`
-2. [Nextcloud](./app-list.md#nextcloud)
+2. [Nextcloud Files](./app-list.md#nextcloud-files)
 2. _Nvidia Control Panel_: `winget install 9NF8H0H7WMLT`
 2. _Nvidia GeForce Experience_: `winget install Nvidia.GeForceExperience`
 2. _Steam_: `winget install Valve.Steam`

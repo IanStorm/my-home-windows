@@ -31,7 +31,8 @@ Entries in **bold** are to be prioritized during installation.
 2. [Microsoft To Do](./app-list.md#microsoft-to-do), preinstalled
 2. [Microsoft Whiteboard](./app-list.md#microsoft-whiteboard), preinstalled
 2. [Netflix](./app-list.md#netflix)
-2. **[Nextcloud](./app-list.md#nextcloud)**
+2. **[Nextcloud Files](./app-list.md#nextcloud-files)**
+2. [Nextcloud Talk](./app-list.md#nextcloud-talk)
 2. [Nvidia Control Panel](./app-list.md#nvidia-control-panel)
 2. [Nvidia GeForce Experience](./app-list.md#nvidia-geforce-experience)
 2. [Padlet](./app-list.md#padlet)

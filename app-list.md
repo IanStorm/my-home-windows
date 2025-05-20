@@ -343,10 +343,15 @@
 |:--|:-:|--:|
 | _Netflix_ | `winget install 9WZDNCRFJ3TJ` | ❌ No |
 
-## Nextcloud
+## Nextcloud Files
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
-| _Nextcloud_ | `winget install Nextcloud.NextcloudDesktop` | [✅ GitHub](https://github.com/nextcloud/desktop) |
+| _Nextcloud Files_ | `winget install Nextcloud.NextcloudDesktop` | [✅ GitHub](https://github.com/nextcloud/desktop) |
+
+## Nextcloud Talk
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _Nextcloud Talk_ | `winget install Nextcloud.Talk` | [✅ GitHub](https://github.com/nextcloud/talk-desktop) |
 
 ## Nvidia Control Panel
 | <!-- --> | <!-- --> | <!-- --> |
