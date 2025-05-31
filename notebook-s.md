@@ -28,7 +28,6 @@ Entries in **bold** are to be prioritized during installation.
 2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
 2. [Microsoft Mouse and Keyboard Center](./app-list.md#microsoft-mouse-and-keyboard-center)
 2. [Microsoft Store](./app-list.md#microsoft-store), preinstalled
-2. [Microsoft To Do](./app-list.md#microsoft-to-do), preinstalled
 2. [Microsoft Whiteboard](./app-list.md#microsoft-whiteboard), preinstalled
 2. [Netflix](./app-list.md#netflix)
 2. **[Nextcloud Files](./app-list.md#nextcloud-files)**

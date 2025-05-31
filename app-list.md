@@ -283,10 +283,12 @@
 |:--|:-:|--:|
 | _Microsoft Store_ | Preinstalled | ❌ No |
 
+<!--
 ## Microsoft To Do
-| <!-- --> | <!-- --> | <!-- --> |
+	@deprecated Use QOwnNotes instead
 |:--|:-:|--:|
 | _Microsoft To Do_ | `winget install 9NBLGGH5R558` | ❌ No |
+-->
 
 ## Microsoft Whiteboard
 | <!-- --> | <!-- --> | <!-- --> |
@@ -400,6 +402,11 @@
 | <!-- --> | <!-- --> | <!-- --> |
 |:--|:-:|--:|
 | _Proton Drive_ | `winget install Proton.ProtonDrive` | [✅ GitHub](https://github.com/ProtonDriveApps/windows-drive) |
+
+## QOwnNotes
+| <!-- --> | <!-- --> | <!-- --> |
+|:--|:-:|--:|
+| _QOwnNotes_ | `winget install pbek.QOwnNotes` | [✅ GitHub](https://github.com/pbek/QOwnNotes) |
 
 ## Raspberry Pi Imager
 | <!-- --> | <!-- --> | <!-- --> |

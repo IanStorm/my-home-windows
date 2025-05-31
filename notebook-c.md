@@ -39,7 +39,6 @@ Entries in **bold** are to be prioritized during installation.
 2. [Microsoft Defender](./app-list.md#microsoft-defender)
 2. [Microsoft Edge](./app-list.md#microsoft-edge), preinstalled
 2. [Microsoft Store](./app-list.md#microsoft-store), preinstalled
-2. [Microsoft To Do](./app-list.md#microsoft-to-do), preinstalled
 2. [Monitorian](./app-list.md#monitorian)
 2. [Mp3tag](./app-list.md#mp3tag)
 2. [Netflix](./app-list.md#netflix)
@@ -50,6 +49,7 @@ Entries in **bold** are to be prioritized during installation.
 2. [Parsec](./app-list.md#parsec)
 2. [Phone Link](./app-list.md#phone-link), preinstalled
 2. [Photos](./app-list.md#microsoft-photos), preinstalled
+2. [QOwnNotes](./app-list.md#qownnotes)
 2. [Raspberry Pi Imager](./app-list.md#raspberry-pi-imager)
 2. [Shutdown Timer Classic](./app-list.md#shutdown-timer-classic)
 2. [Signal](./app-list.md#signal)
